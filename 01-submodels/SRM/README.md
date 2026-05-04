@@ -10,6 +10,6 @@ This folder contains scripts and data related to the development of the Southern
 - `model_SRM.R`: original model
 - `model_SRM_parr`: SRM model including parr 0+ size
 - `data_SRM` : script to prepare data
-- `setup_SRM`: script to run model
+- `setup_SRM`: script to setup model
 - `run_SRM`: script to run model
 - `data´: data to run the model (this data will be moved to more appropriate place later) 
