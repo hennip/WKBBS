@@ -1,41 +1,47 @@
-country	type	parr	smolttrap	river	EA	SA	RL	note1	note
-Sweden	wild	1	1	Ljungan	50	0.61	5		
-Sweden	wild	1	1	Testeboån	11	0.1	10.5		
-Sweden	wild	1	1	Emån	41	0.23	26.5		
-Sweden	wild	1	1	Mörrumsån	26.9	0.24	9.5		
-Sweden	wild	1	0	Mörrumsån_low	22.1	0.47	7		
-Latvia	wild	1	0	Saka	2.4	0.25	21		
-Latvia	wild	1	0	Užava	0.6	0.31	19		
-Latvia	wild	1	0	Irbe	0.2	0.27	22		
-Latvia	wild	1	0	Pēterupe	3	0.24	6		
-Latvia	wild	1	0	Vitrupe	3.1	0.24	10		
-Latvia	wild	1	1	Salaca	22.2	0.29	18		
-Latvia	wild	0	0	Bārta	0.6	0.28	41		
-Estonia	wild	1	0	Vasalemma	7.4	0.2	10		
-Estonia	wild	1	0	Keila	4.2	0.2	1		
-Estonia	wild	1	0	Kunda	2.3	0.2	1.15		
-Estonia	mixed	1	1	Pirita	11.9	0.2	36.5		
-Estonia	mixed	1	0	Aģe	2.1	0.02	5		
-Estonia	mixed	1	0	Jägala	0.3	0.2	0.75		
-Estonia	mixed	1	0	Loobu	10	0.2	4.5		
-Estonia	mixed	1	0	Purtse	14.4	0.2	11		
-Estonia	mixed	1	0	Selja	11.3	0.2	12.5		
-Estonia	mixed	1	0	Valgejõgi	18.66	0.2	32.5		
-Estonia	mixed	1	0	Vääna	2	0.2	9.5		
-Lithuania	wild	1	0	Zeimena	15	0.2	200	(trib) Neumenas - Neris - Zeimena	SA and RL estimated
-Lithuania	wild	1	0	Mera	3	0.2	200	trib to Zeimena	SA and RL estimated
-Lithuania	wild	1	0	Saria	2	0.2	200	trib to Zeimena	EA, SA and RL estimated
-Lithuania	mixed	1	0	B. Šventoji	3	0.2			SA and RL estimated
-Lithuania	mixed	0	0	Nemunas	NA	0.2			SA and RL estimated
-Lithuania	mixed	1	0	Neris	48	0.2			SA and RL estimated
-Lithuania	mixed	1	0	Šventoji	0.7	0.2			SA and RL estimated
-Lithuania	mixed	1	0	Vilnia	7	0.2			SA and RL estimated
-Lithuania	mixed	1	0	Siesartis	12	0.2			SA and RL estimated
-Lithuania	mixed	1	0	Voke	2	0.2			SA and RL estimated
-Lithuania	mixed	1	0	Virinta	3	0.2			SA and RL estimated
-Lithuania	mixed	1	0	Debysa	7	0.2			SA and RL estimated
-Lithuania	mixed	1	0	Minija	30	0.2			SA and RL estimated
-Lithuania	mixed	1	0	Musė	NA	0.2			SA and RL estimated
-Lithuania	mixed	1	0	Dūkšta	NA	0.2			SA and RL estimated
-Lithuania	mixed	1	0	Kena	NA	0.2			SA and RL estimated
-Lithuania	mixed	1	0	Širvinta	NA	0.2			SA and RL estimated
+au	country	type	parr	smolttrap	river	EA	SA	RL	PSPC	PSPC2	note1	note
+au3	Sweden	wild	1	1	Ljungan	50	0.61	5	5			
+au3	Sweden	wild	1	1	Testeboån	11	0.1	10.5	4			
+au4	Sweden	wild	1	1	Emån	41	0.23	26.5	5			
+au4	Sweden	wild	1	1	Mörrumsån	26.9	0.24	9.5	32			
+au4	Sweden	wild	1	0	Mörrumsån_low	22.1	0.47	7	32			
+au5	Latvia	wild	1	0	Saka	2.4	0.25	21	1			
+au5	Latvia	wild	1	0	Užava	0.6	0.31	19	0.2			
+au5	Latvia	wild	1	0	Irbe	0.2	0.27	22	0.1			
+au5	Latvia	wild	1	0	Pēterupe	3	0.24	6	1			
+au5	Latvia	wild	1	0	Vitrupe	3.1	0.24	10	1.5			
+au5	Latvia	wild	1	1	Salaca	22.2	0.29	18	30			
+au5	Latvia	wild	0	0	Bārta	0.6	0.28	41	0.2			
+au5	Lithuania	wild	1	0	Zeimena	15	0.1	500	20		trib of Neris	Check if RL is average or total length
+au5	Lithuania	wild	1	0	Mera	3	0.1	490	3		trib of Zeimena; mainly sea trout river	Check if RL is average or total length
+au5	Lithuania	wild	1	0	Saria	0.5	0.1	510	1		trib of Zeimena	Check if RL is average or total length
+au6	Estonia	wild	1	0	Vasalemma	7.4	0.2	10	4			
+au6	Estonia	wild	1	0	Keila	4.2	0.2	1	5.4	12		
+au6	Estonia	wild	1	0	Kunda	2.3	0.2	1.15	2.1	3.7		
+au6	Estonia	mixed	1	1	Pirita	11.9	0.2	36.5	12			
+au6	Estonia	mixed	1	0	Jägala	0.3	0.2	0.75	0.3			
+au6	Estonia	mixed	1	0	Loobu	10	0.2	4.5	12			
+au6	Estonia	mixed	1	0	Purtse	14.4	0.2	11	12.8			
+au6	Estonia	mixed	1	0	Selja	11.3	0.2	12.5	11			
+au6	Estonia	mixed	1	0	Valgejõgi	18.66	0.2	32.5	16.5			
+au6	Estonia	mixed	1	0	Vääna	2	0.2	9.5	2			
+au6	Finland	mixed			Kymijoki	60	0.1	NA	20	80		
+au6	Russia	mixed			Luga	40	0.1	NA	100			
+au5	Latvia	mixed	1	0	Aģe	2.1	0.02	5	NA			
+au5	Latvia	mixed	1	0	Pärnu	50	0.2	NA	30			
+au5	Latvia	mixed	1	0	Gauja	10	0.2	NA	3			
+au5	Latvia	mixed	1	0	Daugava	0.8	0.2	NA	0.4			
+au5	Latvia	mixed	1	0	Venta	30	0.2	NA	10			
+au5	Lithuania	mixed	1	0	B. Šventoji	3	0.1	10	3		Flows directly into the Baltic sea	SA and RL estimated; check if RL is average or total length
+au5	Lithuania	mixed	0	0	Nemunas	NA	0.1	NA	164		Data in tributaries Zeimena, Mera, Saria	SA and RL estimated; check if RL is average or total length
+au5	Lithuania	mixed	1	0	Neris	48	0.1	390	50		trib of Nemuna	SA and RL estimated; check if RL is average or total length
+au5	Lithuania	mixed	1	0	Šventoji	0.7	0.1	360	15		trib of Neris	SA and RL estimated; check if RL is average or total length
+au5	Lithuania	mixed	1	0	Vilnia	7	0.1	450	5		trib of Neris	SA and RL estimated; check if RL is average or total length
+au5	Lithuania	mixed	1	0	Siesartis	12	0.1	370	13		trib of Šventoji	SA and RL estimated; check if RL is average or total length
+au5	Lithuania	mixed	1	0	Voke	2	0.1	410	3		trib of Neris	SA and RL estimated; check if RL is average or total length
+au5	Lithuania	mixed	1	0	Virinta	3	0.1	375	3		trib of Šventoji	SA and RL estimated; check if RL is average or total length
+au5	Lithuania	mixed	1	0	Debysa	7	0.1	295	5		trib of Nemunas	SA and RL estimated; check if RL is average or total length
+au5	Lithuania	mixed	1	0	Minija	30	0.1	205	30		trib of Nemunas	SA and RL estimated; check if RL is average or total length
+au5	Lithuania	mixed	1	0	Musė	2	0.1	350	NA		trib of Neris	SA and RL estimated; check if RL is average or total length
+au5	Lithuania	mixed	1	0	Dūkšta	1	0.1	370	NA		trib of Neris	SA and RL estimated; check if RL is average or total length
+au5	Lithuania	mixed	1	0	Kena	2	0.1	483	NA		trib of Vilnia	SA and RL estimated; check if RL is average or total length
+au5	Lithuania	mixed	1	0	Širvinta	1.1	0.1	325	NA		trib of Šventoji	SA and RL estimated; check if RL is average or total length
