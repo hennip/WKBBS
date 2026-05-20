@@ -1,0 +1,1444 @@
+country	au	river	section	site_type	area	year	density_0	density_1	nsites	red_flag	Comment	size_0	weight_0	Jul_date	mon	day
+Sweden	AU4	Mörrumsån	1	All	22.1	1985	64.1	27.9	6	NA	NA	NA	NA	NA	NA	NA
+Sweden	AU4	Mörrumsån	1	All	22.1	1986	102.6	29.1	6							
+Sweden	AU4	Mörrumsån	1	All	22.1	1987	123.8	29.3	1	yes						
+Sweden	AU4	Mörrumsån	1	All	22.1	1988	145.0	29.5	1	yes						
+Sweden	AU4	Mörrumsån	1	All	22.1	1989	166.3	29.6	6							
+Sweden	AU4	Mörrumsån	1	All	22.1	1990	101.5	22.5	7							
+Sweden	AU4	Mörrumsån	1	All	22.1	1991	153.9	22.8	7							
+Sweden	AU4	Mörrumsån	1	All	22.1	1992	44.0	32.6	7							
+Sweden	AU4	Mörrumsån	1	All	22.1	1993	52.5	12.5	5							
+Sweden	AU4	Mörrumsån	1	All	22.1	1994	43.1	8.2	5							
+Sweden	AU4	Mörrumsån	1	All	22.1	1995	80.6	4.7	8							
+Sweden	AU4	Mörrumsån	1	All	22.1	1996	75.8	29.5	9							
+Sweden	AU4	Mörrumsån	1	All	22.1	1997	69.5	19.9	9							
+Sweden	AU4	Mörrumsån	1	All	22.1	1998	111.6	31.7	8							
+Sweden	AU4	Mörrumsån	1	All	22.1	1999	96.8	35.1	8							
+Sweden	AU4	Mörrumsån	1	All	22.1	2000	91.6	21.1	8							
+Sweden	AU4	Mörrumsån	1	All	22.1	2001	74.0	19.9	8							
+Sweden	AU4	Mörrumsån	1	All	22.1	2002	87.2	13.9	8							
+Sweden	AU4	Mörrumsån	1	All	22.1	2003	67.9	24.8	8							
+Sweden	AU4	Mörrumsån	1	All	22.1	2004	65.6	24.3	5							
+Sweden	AU4	Mörrumsån	1	All	22.1	2005	88.2	22.7	8							
+Sweden	AU4	Mörrumsån	1	All	22.1	2006	52.9	29.0	8							
+Sweden	AU4	Mörrumsån	1	All	22.1	2007	70.1	21.1	1	yes						
+Sweden	AU4	Mörrumsån	1	All	22.1	2008	87.3	13.1	8							
+Sweden	AU4	Mörrumsån	1	All	22.1	2009	39.9	10.4	8							
+Sweden	AU4	Mörrumsån	1	All	22.1	2010	72.9	25.1	7							
+Sweden	AU4	Mörrumsån	1	All	22.1	2011	14.5	10.2	7							
+Sweden	AU4	Mörrumsån	1	All	22.1	2012	41.2	3.9	13							
+Sweden	AU4	Mörrumsån	1	All	22.1	2013	92.4	16.8	11							
+Sweden	AU4	Mörrumsån	1	All	22.1	2014	67.9	19.4	15							
+Sweden	AU4	Mörrumsån	1	All	22.1	2015	70.2	21.5	14							
+Sweden	AU4	Mörrumsån	1	All	22.1	2016	36.7	14.2	15							
+Sweden	AU4	Mörrumsån	1	All	22.1	2017	46.9	8.9	19							
+Sweden	AU4	Mörrumsån	1	All	22.1	2018	26.5	7.4	23							
+Sweden	AU4	Mörrumsån	1	All	22.1	2019	64.4	4.4	12							
+Sweden	AU4	Mörrumsån	2	All	10.3	1985	3.6	4.1	3							
+Sweden	AU4	Mörrumsån	2	All	10.3	1986	24.9	2.0	2							
+Sweden	AU4	Mörrumsån	2	All	10.3	1987	50.4	4.7	1	yes						
+Sweden	AU4	Mörrumsån	2	All	10.3	1988	75.9	7.5	1	yes						
+Sweden	AU4	Mörrumsån	2	All	10.3	1989	101.4	10.2	3							
+Sweden	AU4	Mörrumsån	2	All	10.3	1990	55.6	12.7	4							
+Sweden	AU4	Mörrumsån	2	All	10.3	1991	137.0	14.1	2							
+Sweden	AU4	Mörrumsån	2	All	10.3	1992	14.6	12.6	3							
+Sweden	AU4	Mörrumsån	2	All	10.3	1993	9.7	8.8	3							
+Sweden	AU4	Mörrumsån	2	All	10.3	1994	6.7	1.7	3							
+Sweden	AU4	Mörrumsån	2	All	10.3	1995	42.9	1.5	3							
+Sweden	AU4	Mörrumsån	2	All	10.3	1996	44.6	15.1	3							
+Sweden	AU4	Mörrumsån	2	All	10.3	1997	70.7	12.8	3							
+Sweden	AU4	Mörrumsån	2	All	10.3	1998	83.2	12.0	3							
+Sweden	AU4	Mörrumsån	2	All	10.3	1999	68.0	22.7	3							
+Sweden	AU4	Mörrumsån	2	All	10.3	2000	81.0	13.5	3							
+Sweden	AU4	Mörrumsån	2	All	10.3	2001	78.2	18.9	3							
+Sweden	AU4	Mörrumsån	2	All	10.3	2002	65.8	11.4	3							
+Sweden	AU4	Mörrumsån	2	All	10.3	2003	69.0	16.3	6							
+Sweden	AU4	Mörrumsån	2	All	10.3	2004	82.8	18.9	2							
+Sweden	AU4	Mörrumsån	2	All	10.3	2005	59.1	30.5	3							
+Sweden	AU4	Mörrumsån	2	All	10.3	2006	41.7	29.6	3							
+Sweden	AU4	Mörrumsån	2	All	10.3	2007	50.9	20.8	1	yes						
+Sweden	AU4	Mörrumsån	2	All	10.3	2008	60.1	12.0	3							
+Sweden	AU4	Mörrumsån	2	All	10.3	2009	68.5	10.3	3							
+Sweden	AU4	Mörrumsån	2	All	10.3	2010	97.9	17.5	3							
+Sweden	AU4	Mörrumsån	2	All	10.3	2011	63.7	14.8	2							
+Sweden	AU4	Mörrumsån	2	All	10.3	2012	53.2	7.4	9							
+Sweden	AU4	Mörrumsån	2	All	10.3	2013	56.1	12.9	8							
+Sweden	AU4	Mörrumsån	2	All	10.3	2014	73.6	19.7	6							
+Sweden	AU4	Mörrumsån	2	All	10.3	2015	59.1	39.2	7							
+Sweden	AU4	Mörrumsån	2	All	10.3	2016	68.7	16.3	8							
+Sweden	AU4	Mörrumsån	2	All	10.3	2017	20.0	5.1	11							
+Sweden	AU4	Mörrumsån	2	All	10.3	2018	6.6	6.6	9							
+Sweden	AU4	Mörrumsån	2	All	10.3	2019	64.0	1.3	6							
+Sweden	AU4	Mörrumsån	3	All	3.0	1985	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	All	3.0	1986	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	All	3.0	1987	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	All	3.0	1988	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	All	3.0	1989	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	All	3.0	1990	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	All	3.0	1991	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	All	3.0	1992	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	All	3.0	1993	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	All	3.0	1994	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	All	3.0	1995	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	All	3.0	1996	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	All	3.0	1997	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	All	3.0	1998	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	All	3.0	1999	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	All	3.0	2000	0.0	0.0	1							
+Sweden	AU4	Mörrumsån	3	All	3.0	2001	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	All	3.0	2002	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	All	3.0	2003	7.2	0.9	2							
+Sweden	AU4	Mörrumsån	3	All	3.0	2004	12.5	1.1	1	yes						
+Sweden	AU4	Mörrumsån	3	All	3.0	2005	17.9	1.3	1	yes						
+Sweden	AU4	Mörrumsån	3	All	3.0	2006	23.2	1.5	1	yes						
+Sweden	AU4	Mörrumsån	3	All	3.0	2007	28.6	1.7	1	yes						
+Sweden	AU4	Mörrumsån	3	All	3.0	2008	34.0	1.9	1	yes						
+Sweden	AU4	Mörrumsån	3	All	3.0	2009	39.3	2.1	1	yes						
+Sweden	AU4	Mörrumsån	3	All	3.0	2010	44.7	2.3	1							
+Sweden	AU4	Mörrumsån	3	All	3.0	2011	25.9	3.5	2							
+Sweden	AU4	Mörrumsån	3	All	3.0	2012	41.0	4.3	4							
+Sweden	AU4	Mörrumsån	3	All	3.0	2013	20.4	9.2	6							
+Sweden	AU4	Mörrumsån	3	All	3.0	2014	65.0	13.6	3							
+Sweden	AU4	Mörrumsån	3	All	3.0	2015	26.9	23.4	3							
+Sweden	AU4	Mörrumsån	3	All	3.0	2016	35.2	7.8	3							
+Sweden	AU4	Mörrumsån	3	All	3.0	2017	34.8	13.9	3							
+Sweden	AU4	Mörrumsån	3	All	3.0	2018	12.4	6.4	3							
+Sweden	AU4	Mörrumsån	3	All	3.0	2019	80.4	3.4	3							
+Sweden	AU4	Mörrumsån	4	All	13.6	1985	3.2	2.8	1	yes						
+Sweden	AU4	Mörrumsån	4	All	13.6	1986	3.2	2.8	1	yes						
+Sweden	AU4	Mörrumsån	4	All	13.6	1987	3.2	2.8	1	yes						
+Sweden	AU4	Mörrumsån	4	All	13.6	1988	3.2	2.8	1	yes						
+Sweden	AU4	Mörrumsån	4	All	13.6	1989	3.2	2.8	1	yes						
+Sweden	AU4	Mörrumsån	4	All	13.6	1990	9.1	0.0	1							
+Sweden	AU4	Mörrumsån	4	All	13.6	1991	0.0	0.8	1							
+Sweden	AU4	Mörrumsån	4	All	13.6	1992	3.2	2.8	1	yes						
+Sweden	AU4	Mörrumsån	4	All	13.6	1993	3.2	2.8	1	yes						
+Sweden	AU4	Mörrumsån	4	All	13.6	1994	3.2	2.8	1	yes						
+Sweden	AU4	Mörrumsån	4	All	13.6	1995	0.6	7.6	1							
+Sweden	AU4	Mörrumsån	4	All	13.6	1996	3.2	2.8	1	yes						
+Sweden	AU4	Mörrumsån	4	All	13.6	1997	3.2	2.8	1	yes						
+Sweden	AU4	Mörrumsån	4	All	13.6	1998	3.2	2.8	1	yes						
+Sweden	AU4	Mörrumsån	4	All	13.6	1999	3.2	2.8	1	yes						
+Sweden	AU4	Mörrumsån	4	All	13.6	2000	3.2	2.8	1	yes						
+Sweden	AU4	Mörrumsån	4	All	13.6	2001	3.2	2.8	1	yes						
+Sweden	AU4	Mörrumsån	4	All	13.6	2002	3.2	2.8	1	yes						
+Sweden	AU4	Mörrumsån	4	All	13.6	2003	6.3	1.0	1							
+Sweden	AU4	Mörrumsån	4	All	13.6	2004	16.5	0.9	1	yes						
+Sweden	AU4	Mörrumsån	4	All	13.6	2005	26.8	0.9	1	yes						
+Sweden	AU4	Mörrumsån	4	All	13.6	2006	37.0	0.8	1	yes						
+Sweden	AU4	Mörrumsån	4	All	13.6	2007	47.3	0.7	1	yes						
+Sweden	AU4	Mörrumsån	4	All	13.6	2008	57.5	0.7	1	yes						
+Sweden	AU4	Mörrumsån	4	All	13.6	2009	67.8	0.6	1	yes						
+Sweden	AU4	Mörrumsån	4	All	13.6	2010	78.0	0.5	5							
+Sweden	AU4	Mörrumsån	4	All	13.6	2011	2.3	0.0	1							
+Sweden	AU4	Mörrumsån	4	All	13.6	2012	28.6	3.9	3							
+Sweden	AU4	Mörrumsån	4	All	13.6	2013	31.7	1.3	4							
+Sweden	AU4	Mörrumsån	4	All	13.6	2014	1.1	4.0	4							
+Sweden	AU4	Mörrumsån	4	All	13.6	2015	24.1	17.3	4							
+Sweden	AU4	Mörrumsån	4	All	13.6	2016	12.0	2.1	3							
+Sweden	AU4	Mörrumsån	4	All	13.6	2017	12.6	4.6	8							
+Sweden	AU4	Mörrumsån	4	All	13.6	2018	6.9	4.7	5							
+Sweden	AU4	Mörrumsån	4	All	13.6	2019	0.6	0.2	5							
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	1985	67.3	30.4	3			66.7		249		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	1986	103.4	30.3	3			65.4		252		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	1987	137.6	29.3	1	yes						
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	1988	171.7	28.3	1	yes						
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	1989	205.9	27.3	3			62.7		254.3333		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	1990	98.6	32.6	3			68.6		262.3333		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	1991	191.2	34.2	3			60.6		252.6667		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	1992	41.8	48.6	3			70.5		252		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	1993	48.7	15.9	3			80.9		257.3333		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	1994	43.5	10.1	3			75.0		255.6667		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	1995	82.0	5.2	6			70.1		262		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	1996	57.4	31.6	6			67.4		252.1667		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	1997	61.1	20.3	6			61.6		254		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	1998	97.0	30.1	7			63.4		254.8571		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	1999	94.2	33.6	7			62.2		246.8571		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	2000	81.5	20.9	7			65.0		253.1429		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	2001	68.8	19.3	7			68.7		247		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	2002	75.5	14.1	7			62.9		252.1429		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	2003	60.7	23.7	7			58.4		262.8571		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	2004	66.9	25.6	4			62.6		272.5		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	2005	85.3	21.6	7			61.3		266		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	2006	43.7	28.0	7			59.0		264.7143		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	2007	61.7	20.3	1	yes						
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	2008	79.7	12.7	7			66.5		266.2857		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	2009	44.7	11.5	7			63.6		254.5714		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	2010	72.9	25.1	7			59.6		248.4286		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	2011	19.2	13.2	5			64.6		248.6		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	2012	36.2	7.8	5			72.1		263.4		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	2013	83.0	22.5	7			63.2		252.1429		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	2014	59.3	18.5	7			64.6		248.8571		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	2015	72.8	27.7	5			70.3		255.8		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	2016	45.7	12.5	7			71.7		256		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	2017	51.0	12.5	7			67.3		254.5714		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	2018	44.6	13.5	6			69.5		254.3333		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	2019	98.9	5.8	7			65.4		257.8571		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	2020	56.3	21.3	7			69.4		254		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	2021	67.9	9.0	7			64.7		245.5714		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	2022	89.0	22.6	7			62.8		261.7143		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	2023	43.1	27.8	7			66.8		253.1429		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	2024	58.4	11.4	7			65.6		263.4286		
+Sweden	AU4	Mörrumsån_low	1	Ordinary	22.1	2025	NA	NA	1		Projektering ett år framåt			258.8571		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	1985	3.6	4.1	3			83.1		250.3333		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	1986	24.9	2.0	2			79.3		253.5		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	1987	50.4	4.7	1	yes						
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	1988	75.9	7.5	1	yes						
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	1989	101.4	10.2	3			74.2		254.6667		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	1990	70.4	16.9	3			82.1		260.6667		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	1991	137.0	14.1	2			65.1		252		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	1992	17.9	18.9	2			75.4		252.5		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	1993	9.7	8.8	3			77.8		257.3333		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	1994	6.7	1.7	3			84.7		256		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	1995	42.9	1.5	3			76.0		262		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	1996	44.6	15.1	3			74.7		253.3333		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	1997	70.7	12.8	3			64.1		251.3333		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	1998	83.2	12.0	3			78.2		257.3333		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	1999	68.0	22.7	3			65.2		252.3333		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	2000	81.0	13.5	3			68.7		251.6667		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	2001	78.2	18.9	3			68.7		248.3333		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	2002	65.8	11.4	3			64.2		252.3333		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	2003	105.7	24.0	3			60.5		257.6667		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	2004	82.8	18.9	2			66.7		272.5		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	2005	59.1	30.5	3			62.5		262		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	2006	41.7	29.6	3			64.8		260		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	2007	50.9	20.8	1	yes						
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	2008	60.1	12.0	3			65.9		254		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	2009	68.5	10.3	3			67.7		262		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	2010	97.9	17.5	3			60.8		257		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	2011	63.7	14.8	2			61.1		252		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	2012	73.9	12.0	5			67.0		261		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	2013	63.3	16.6	6			64.6		250.8333		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	2014	78.4	15.6	5			65.7		252.2		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	2015	57.7	23.0	4			69.5		256.75		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	2016	54.6	17.8	6			70.2		264.2857		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	2017	29.0	8.0	6			66.0		258.5		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	2018	8.1	10.0	6			68.4		256.1667		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	2019	64.0	1.3	6			74.5		262.1667		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	2020	31.0	8.1	6			73.0		261.1667		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	2021	69.2	9.9	6			64.7		255.5		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	2022	57.0	17.0	6			67.7		265.8333		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	2023	40.8	29.8	6			66.4		264		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	2024	44.3	17.8	6			66.4		272.5		
+Sweden	AU4	Mörrumsån	2	Ordinary	10.3	2025	NA	NA	1		Projektering ett år framåt			262		
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	1985	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	1986	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	1987	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	1988	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	1989	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	1990	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	1991	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	1992	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	1993	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	1994	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	1995	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	1996	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	1997	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	1998	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	1999	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	2000	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	2001	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	2002	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	2003	0.0	0.0	1	yes						
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	2004	8.9	0.3	1	yes						
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	2005	17.7	0.6	1	yes						
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	2006	26.6	0.9	1	yes						
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	2007	35.4	1.2	1	yes						
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	2008	44.3	1.4	1	yes						
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	2009	53.1	1.7	1	yes						
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	2010	62.0	2.0	1	yes						
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	2011	70.8	2.3	1	yes						
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	2012	79.7	2.6	1			96.0		262		
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	2013	33.3	23.7	2			67.9		252		
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	2014	73.9	20.4	2			73.5		257		
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	2015	31.3	34.6	2			79.2		270		
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	2016	40.2	10.6	2			81.6		264		
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	2017	32.7	20.9	2			81.2		267		
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	2018	15.2	9.6	2			74.3		260		
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	2019	113.7	5.2	2			78.2		267		
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	2020	33.4	19.4	2			85.7		265		
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	2021	58.9	2.4	2			79.6		272		
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	2022	63.1	15.5	2			74.8		277		
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	2023	22.0	22.2	2			70.8		276		
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	2024	34.9	14.7	2			69.0		284		
+Sweden	AU4	Mörrumsån	3	Ordinary	3.0	2025	NA	NA	1		Projektering ett år framåt			265		
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	1985	5.4	0.3	1	yes						
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	1986	5.4	0.3	1	yes						
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	1987	5.4	0.3	1	yes						
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	1988	5.4	0.3	1	yes						
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	1989	5.4	0.3	1	yes						
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	1990	5.4	0.3	1	yes						
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	1991	5.4	0.3	1	yes						
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	1992	5.4	0.3	1	yes						
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	1993	5.4	0.3	1	yes						
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	1994	5.4	0.3	1	yes						
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	1995	5.4	0.3	1	yes						
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	1996	5.4	0.3	1	yes						
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	1997	5.4	0.3	1	yes						
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	1998	5.4	0.3	1	yes						
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	1999	5.4	0.3	1	yes						
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	2000	5.4	0.3	1	yes						
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	2001	5.4	0.3	1	yes						
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	2002	5.4	0.3	1	yes						
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	2003	5.4	0.3	1	yes						
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	2004	10.8	0.2	1	yes						
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	2005	16.2	0.2	1	yes						
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	2006	21.6	0.2	1	yes						
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	2007	27.0	0.1	1	yes						
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	2008	32.5	0.1	1	yes						
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	2009	37.9	0.0	1	yes						
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	2010	21.7	0.0	2		Adderat en lokal feb 2023	79.3		258.5		
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	2011	2.3	0.0	1		Adderat en lokal feb 2023	108.5		265		
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	2012	28.6	3.9	3		Adderat en lokal feb 2023	87.7		262.6667		
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	2013	31.7	1.3	4		Adderat en lokal feb 2023	66.6		248		
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	2014	1.1	4.0	4		Adderat en lokal feb 2023	74.0		250.25		
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	2015	24.1	17.3	4		Adderat en lokal feb 2023	78.5		255.25		
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	2016	12.0	2.1	3		Adderat en lokal feb 2023	87.0		261		
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	2017	25.1	9.3	4		Adderat en lokal feb 2023	75.4		266.75		
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	2018	8.1	5.1	4		Adderat en lokal feb 2023	73.7		251		
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	2019	0.3	0.3	4		Adderat en lokal feb 2023	80.0		257.25		
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	2020	4.3	1.2	4		Adderat en lokal feb 2023	106.4		256.75		
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	2021	40.0	0.3	4		Adderat en lokal feb 2023	76.9		255		
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	2022	36.1	7.7	4		Adderat en lokal feb 2023	72.3		261.5		
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	2023	12.7	7.8	4			75.6		263.75		
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	2024	46.2	11.9	4			71.4		268.25		
+Sweden	AU4	Mörrumsån	4	Ordinary	13.6	2025	NA	NA	1		Projektering ett år framåt			257.5		
+Sweden	AU4	Emån	1	All	10.5	1985	NA	NA	0							
+Sweden	AU4	Emån	1	All	10.5	1986	NA	NA	0							
+Sweden	AU4	Emån	1	All	10.5	1987	NA	NA	0							
+Sweden	AU4	Emån	1	All	10.5	1988	7.6	3.4	2							
+Sweden	AU4	Emån	1	All	10.5	1989	21.0	3.7	1	yes						
+Sweden	AU4	Emån	1	All	10.5	1990	34.4	4.1	1	yes						
+Sweden	AU4	Emån	1	All	10.5	1991	47.7	4.5	1	yes						
+Sweden	AU4	Emån	1	All	10.5	1992	61.1	4.9	1							
+Sweden	AU4	Emån	1	All	10.5	1993	41.9	11.0	4							
+Sweden	AU4	Emån	1	All	10.5	1994	17.4	5.3	6							
+Sweden	AU4	Emån	1	All	10.5	1995	33.7	4.5	4							
+Sweden	AU4	Emån	1	All	10.5	1996	36.3	6.3	10							
+Sweden	AU4	Emån	1	All	10.5	1997	54.6	4.4	6							
+Sweden	AU4	Emån	1	All	10.5	1998	81.4	8.6	2							
+Sweden	AU4	Emån	1	All	10.5	1999	52.0	6.8	8							
+Sweden	AU4	Emån	1	All	10.5	2000	42.9	2.6	5							
+Sweden	AU4	Emån	1	All	10.5	2001	46.0	2.4	5							
+Sweden	AU4	Emån	1	All	10.5	2002	60.4	3.7	5							
+Sweden	AU4	Emån	1	All	10.5	2003	78.1	5.7	4							
+Sweden	AU4	Emån	1	All	10.5	2004	60.5	4.7	6							
+Sweden	AU4	Emån	1	All	10.5	2005	94.3	6.9	5							
+Sweden	AU4	Emån	1	All	10.5	2006	27.3	2.1	4							
+Sweden	AU4	Emån	1	All	10.5	2007	93.0	7.4	2							
+Sweden	AU4	Emån	1	All	10.5	2008	56.4	4.9	2							
+Sweden	AU4	Emån	1	All	10.5	2009	102.4	4.4	2							
+Sweden	AU4	Emån	1	All	10.5	2010	91.8	4.7	1	yes						
+Sweden	AU4	Emån	1	All	10.5	2011	81.2	4.9	2							
+Sweden	AU4	Emån	1	All	10.5	2012	39.7	2.6	4							
+Sweden	AU4	Emån	1	All	10.5	2013	54.2	14.4	2							
+Sweden	AU4	Emån	1	All	10.5	2014	58.7	9.0	2							
+Sweden	AU4	Emån	1	All	10.5	2015	66.2	8.2	2							
+Sweden	AU4	Emån	1	All	10.5	2016	64.1	11.6	3							
+Sweden	AU4	Emån	1	All	10.5	2017	72.8	9.8	3							
+Sweden	AU4	Emån	1	All	10.5	2018	19.5	7.9	2							
+Sweden	AU4	Emån	1	All	10.5	2019	57.0	2.9	2							
+Sweden	AU4	Emån	2	All	20.3	1985	NA	NA	0							
+Sweden	AU4	Emån	2	All	20.3	1986	NA	NA	0							
+Sweden	AU4	Emån	2	All	20.3	1987	0.0	3.2	1							
+Sweden	AU4	Emån	2	All	20.3	1988	0.0	0.0	3							
+Sweden	AU4	Emån	2	All	20.3	1989	0.0	0.0	1							
+Sweden	AU4	Emån	2	All	20.3	1990	0.0	0.0	3							
+Sweden	AU4	Emån	2	All	20.3	1991	0.0	0.0	1							
+Sweden	AU4	Emån	2	All	20.3	1992	0.0	0.0	2							
+Sweden	AU4	Emån	2	All	20.3	1993	0.0	0.0	1							
+Sweden	AU4	Emån	2	All	20.3	1994	0.0	0.0	5							
+Sweden	AU4	Emån	2	All	20.3	1995	0.0	0.0	4							
+Sweden	AU4	Emån	2	All	20.3	1996	0.0	0.2	4							
+Sweden	AU4	Emån	2	All	20.3	1997	0.3	0.0	14							
+Sweden	AU4	Emån	2	All	20.3	1998	4.2	0.0	5							
+Sweden	AU4	Emån	2	All	20.3	1999	0.0	0.2	7							
+Sweden	AU4	Emån	2	All	20.3	2000	0.0	0.0	4							
+Sweden	AU4	Emån	2	All	20.3	2001	5.7	0.0	5							
+Sweden	AU4	Emån	2	All	20.3	2002	4.9	0.5	4							
+Sweden	AU4	Emån	2	All	20.3	2003	0.2	0.2	4							
+Sweden	AU4	Emån	2	All	20.3	2004	1.3	0.2	5							
+Sweden	AU4	Emån	2	All	20.3	2005	3.5	0.0	4							
+Sweden	AU4	Emån	2	All	20.3	2006	0.2	0.2	6							
+Sweden	AU4	Emån	2	All	20.3	2007	8.9	0.0	5							
+Sweden	AU4	Emån	2	All	20.3	2008	15.0	1.4	6							
+Sweden	AU4	Emån	2	All	20.3	2009	19.2	4.7	6							
+Sweden	AU4	Emån	2	All	20.3	2010	13.6	4.0	1	yes						
+Sweden	AU4	Emån	2	All	20.3	2011	8.0	3.3	4							
+Sweden	AU4	Emån	2	All	20.3	2012	14.3	1.7	6							
+Sweden	AU4	Emån	2	All	20.3	2013	11.0	6.7	6							
+Sweden	AU4	Emån	2	All	20.3	2014	37.0	3.6	4							
+Sweden	AU4	Emån	2	All	20.3	2015	26.3	5.9	4							
+Sweden	AU4	Emån	2	All	20.3	2016	39.9	5.8	5							
+Sweden	AU4	Emån	2	All	20.3	2017	22.2	4.5	8							
+Sweden	AU4	Emån	2	All	20.3	2018	3.0	1.8	8							
+Sweden	AU4	Emån	2	All	20.3	2019	17.5	0.9	8							
+Sweden	AU4	Emån	3	All	11.1	1985	NA	NA	0							
+Sweden	AU4	Emån	3	All	11.1	1986	NA	NA	0							
+Sweden	AU4	Emån	3	All	11.1	1987	0.0	0.0	3							
+Sweden	AU4	Emån	3	All	11.1	1988	0.0	0.5	4							
+Sweden	AU4	Emån	3	All	11.1	1989	0.0	0.2	1	yes						
+Sweden	AU4	Emån	3	All	11.1	1990	0.0	0.0	10							
+Sweden	AU4	Emån	3	All	11.1	1991	0.0	0.0	3							
+Sweden	AU4	Emån	3	All	11.1	1992	0.0	0.0	4							
+Sweden	AU4	Emån	3	All	11.1	1993	0.0	0.0	2							
+Sweden	AU4	Emån	3	All	11.1	1994	0.0	0.0	2							
+Sweden	AU4	Emån	3	All	11.1	1995	0.0	0.0	3							
+Sweden	AU4	Emån	3	All	11.1	1996	0.0	0.0	5							
+Sweden	AU4	Emån	3	All	11.1	1997	0.0	0.0	2							
+Sweden	AU4	Emån	3	All	11.1	1998	0.0	0.0	2							
+Sweden	AU4	Emån	3	All	11.1	1999	6.6	0.0	2							
+Sweden	AU4	Emån	3	All	11.1	2000	1.5	0.0	8							
+Sweden	AU4	Emån	3	All	11.1	2001	1.2	0.0	1	yes						
+Sweden	AU4	Emån	3	All	11.1	2002	0.9	0.0	1	yes						
+Sweden	AU4	Emån	3	All	11.1	2003	0.6	0.0	1	yes						
+Sweden	AU4	Emån	3	All	11.1	2004	0.3	0.0	1	yes						
+Sweden	AU4	Emån	3	All	11.1	2005	0.0	0.0	4							
+Sweden	AU4	Emån	3	All	11.1	2006	0.0	0.0	3							
+Sweden	AU4	Emån	3	All	11.1	2007	0.0	0.0	1							
+Sweden	AU4	Emån	3	All	11.1	2008	0.0	0.0	4							
+Sweden	AU4	Emån	3	All	11.1	2009	5.0	0.0	4							
+Sweden	AU4	Emån	3	All	11.1	2010	2.5	0.0	1	yes						
+Sweden	AU4	Emån	3	All	11.1	2011	0.0	0.0	2							
+Sweden	AU4	Emån	3	All	11.1	2012	0.0	0.0	5							
+Sweden	AU4	Emån	3	All	11.1	2013	0.7	0.0	4							
+Sweden	AU4	Emån	3	All	11.1	2014	3.8	0.0	4							
+Sweden	AU4	Emån	3	All	11.1	2015	0.5	1.8	5							
+Sweden	AU4	Emån	3	All	11.1	2016	1.5	0.2	7							
+Sweden	AU4	Emån	3	All	11.1	2017	0.0	0.4	5							
+Sweden	AU4	Emån	3	All	11.1	2018	0.2	0.0	7							
+Sweden	AU4	Emån	3	All	11.1	2019	0.0	0.0	7							
+Sweden	AU4	Emån	1	Ordinary	10.5	1985	NA	NA	0		KM 6 feb 2024: update No sites from 0 to 1					
+Sweden	AU4	Emån	1	Ordinary	10.5	1986	NA	NA	0		KM 6 feb 2024: update No sites from 0 to 1					
+Sweden	AU4	Emån	1	Ordinary	10.5	1987	NA	NA	0		KM 6 feb 2024: update No sites from 0 to 1					
+Sweden	AU4	Emån	1	Ordinary	10.5	1988	NA	NA	0		KM 6 feb 2024: update No sites from 0 to 1					
+Sweden	AU4	Emån	1	Ordinary	10.5	1989	NA	NA	0		KM 6 feb 2024: update No sites from 0 to 1					
+Sweden	AU4	Emån	1	Ordinary	10.5	1990	NA	NA	0		KM 6 feb 2024: update No sites from 0 to 1					
+Sweden	AU4	Emån	1	Ordinary	10.5	1991	NA	NA	0		KM 6 feb 2024: update No sites from 0 to 1					
+Sweden	AU4	Emån	1	Ordinary	10.5	1992	NA	NA	0		KM 6 feb 2024: update No sites from 0 to 1					
+Sweden	AU4	Emån	1	Ordinary	10.5	1993	27.7	12.3	1			73.9		221		
+Sweden	AU4	Emån	1	Ordinary	10.5	1994	11.3	2.6	1			63.6		220		
+Sweden	AU4	Emån	1	Ordinary	10.5	1995	41.3	4.8	1			77.3		261		
+Sweden	AU4	Emån	1	Ordinary	10.5	1996	52.7	5.6	1			74.3		255		
+Sweden	AU4	Emån	1	Ordinary	10.5	1997	93.2	5.6	1			67.5		251		
+Sweden	AU4	Emån	1	Ordinary	10.5	1998	116.3	11.2	1			74.4		257		
+Sweden	AU4	Emån	1	Ordinary	10.5	1999	60.2	4.8	1			72.9		251		
+Sweden	AU4	Emån	1	Ordinary	10.5	2000	29.9	0.8	1			82.5		257		
+Sweden	AU4	Emån	1	Ordinary	10.5	2001	64.7	3.2	1			72.6		223		
+Sweden	AU4	Emån	1	Ordinary	10.5	2002	75.8	3.6	2			69.5		253.5		
+Sweden	AU4	Emån	1	Ordinary	10.5	2003	77.7	5.3	2			63.2		253		
+Sweden	AU4	Emån	1	Ordinary	10.5	2004	81.4	6.6	2			67.2		250.5		
+Sweden	AU4	Emån	1	Ordinary	10.5	2005	102.5	7.6	2			66.2		256.5		
+Sweden	AU4	Emån	1	Ordinary	10.5	2006	34.8	1.8	2			69.1		260		
+Sweden	AU4	Emån	1	Ordinary	10.5	2007	79.3	2.7	1			65.8		256		
+Sweden	AU4	Emån	1	Ordinary	10.5	2008	56.4	4.9	2			68.0		247		
+Sweden	AU4	Emån	1	Ordinary	10.5	2009	102.4	4.4	2			67.4		251		
+Sweden	AU4	Emån	1	Ordinary	10.5	2010	91.8	4.7	1	yes						
+Sweden	AU4	Emån	1	Ordinary	10.5	2011	81.2	4.9	2			69.5		256		
+Sweden	AU4	Emån	1	Ordinary	10.5	2012	69.1	5.2	2			64.0		250		
+Sweden	AU4	Emån	1	Ordinary	10.5	2013	54.2	14.4	2			72.4		259		
+Sweden	AU4	Emån	1	Ordinary	10.5	2014	58.7	9.0	2			73.0		258		
+Sweden	AU4	Emån	1	Ordinary	10.5	2015	66.2	8.2	2			78.4		257		
+Sweden	AU4	Emån	1	Ordinary	10.5	2016	85.0	14.1	2			63.4		257		
+Sweden	AU4	Emån	1	Ordinary	10.5	2017	89.2	13.6	2			72.0		254		
+Sweden	AU4	Emån	1	Ordinary	10.5	2018	19.5	7.9	2			69.6		254		
+Sweden	AU4	Emån	1	Ordinary	10.5	2019	57.0	2.9	2			65.5		253		
+Sweden	AU4	Emån	1	Ordinary	10.5	2020	36.8	3.7	2			76.4		259		
+Sweden	AU4	Emån	1	Ordinary	10.5	2021	23.7	2.0	2			73.3		257		
+Sweden	AU4	Emån	1	Ordinary	10.5	2022	46.3	1.5	2			65.1		256		
+Sweden	AU4	Emån	1	Ordinary	10.5	2023	18.0	1.6	2			68.3		262		
+Sweden	AU4	Emån	1	Ordinary	10.5	2024	18.0	2.2	2			66.5		253		
+Sweden	AU4	Emån	1	Ordinary	10.5	2025	NA	NA	1		Projektering ett år framåt					
+Sweden	AU4	Emån	2	Ordinary	20.3	1985	NA	NA	0		KM 6 feb 2024: update No sites from 0 to 1; should be 0					
+Sweden	AU4	Emån	2	Ordinary	20.3	1986	NA	NA	0		KM 6 feb 2024: update No sites from 0 to 1; should be 0					
+Sweden	AU4	Emån	2	Ordinary	20.3	1987	0.0	3.2	1							
+Sweden	AU4	Emån	2	Ordinary	20.3	1988	0.0	0.0	2							
+Sweden	AU4	Emån	2	Ordinary	20.3	1989	0.0	0.0	1	yes						
+Sweden	AU4	Emån	2	Ordinary	20.3	1990	0.0	0.0	1							
+Sweden	AU4	Emån	2	Ordinary	20.3	1991	0.0	0.0	1	yes						
+Sweden	AU4	Emån	2	Ordinary	20.3	1992	0.0	0.0	1							
+Sweden	AU4	Emån	2	Ordinary	20.3	1993	0.0	0.0	1							
+Sweden	AU4	Emån	2	Ordinary	20.3	1994	0.0	0.0	3							
+Sweden	AU4	Emån	2	Ordinary	20.3	1995	0.0	0.0	2							
+Sweden	AU4	Emån	2	Ordinary	20.3	1996	0.0	0.3	2							
+Sweden	AU4	Emån	2	Ordinary	20.3	1997	0.0	0.0	2							
+Sweden	AU4	Emån	2	Ordinary	20.3	1998	8.3	0.0	2			90.5		257		
+Sweden	AU4	Emån	2	Ordinary	20.3	1999	0.0	0.3	2							
+Sweden	AU4	Emån	2	Ordinary	20.3	2000	0.0	0.0	2							
+Sweden	AU4	Emån	2	Ordinary	20.3	2001	2.0	0.0	2			83.0		253		
+Sweden	AU4	Emån	2	Ordinary	20.3	2002	2.4	0.2	3			77.9		252		
+Sweden	AU4	Emån	2	Ordinary	20.3	2003	0.2	0.2	3							
+Sweden	AU4	Emån	2	Ordinary	20.3	2004	2.2	0.3	3			76.1		268		
+Sweden	AU4	Emån	2	Ordinary	20.3	2005	4.6	0.0	3			77.6		253		
+Sweden	AU4	Emån	2	Ordinary	20.3	2006	0.4	0.3	4			73.5		248		
+Sweden	AU4	Emån	2	Ordinary	20.3	2007	14.5	0.0	3			85.7		256		
+Sweden	AU4	Emån	2	Ordinary	20.3	2008	22.1	2.1	4			77.4		246		
+Sweden	AU4	Emån	2	Ordinary	20.3	2009	36.6	8.4	3			80.8		251		
+Sweden	AU4	Emån	2	Ordinary	20.3	2010	23.6	6.4	1	yes						
+Sweden	AU4	Emån	2	Ordinary	20.3	2011	10.7	4.3	3			75.8		229		
+Sweden	AU4	Emån	2	Ordinary	20.3	2012	21.5	2.5	4			77.8		249		
+Sweden	AU4	Emån	2	Ordinary	20.3	2013	18.5	9.2	3			66.8		246		
+Sweden	AU4	Emån	2	Ordinary	20.3	2014	32.0	3.0	3			71.8		252		
+Sweden	AU4	Emån	2	Ordinary	20.3	2015	32.2	7.6	3			76.4		252		
+Sweden	AU4	Emån	2	Ordinary	20.3	2016	64.5	8.4	3			73.0		251		
+Sweden	AU4	Emån	2	Ordinary	20.3	2017	39.2	5.5	4			72.2		234		
+Sweden	AU4	Emån	2	Ordinary	20.3	2018	6.0	3.4	4			74.8		247		
+Sweden	AU4	Emån	2	Ordinary	20.3	2019	33.0	1.4	4			75.6		244		
+Sweden	AU4	Emån	2	Ordinary	20.3	2020	39.8	2.7	4			73.9		244		
+Sweden	AU4	Emån	2	Ordinary	20.3	2021	18.5	2.8	4			74.6		250		
+Sweden	AU4	Emån	2	Ordinary	20.3	2022	26.2	1.3	3		SP: en lokal kunde ej elfiskas	74.0		251		
+Sweden	AU4	Emån	2	Ordinary	20.3	2023	12.6	1.5	3			65.6		243		
+Sweden	AU4	Emån	2	Ordinary	20.3	2024	17.8	1.2	3			73.9		252		
+Sweden	AU4	Emån	2	Ordinary	20.3	2025	NA	NA	1		Projektering ett år framåt					
+Sweden	AU4	Emån	3	Ordinary	11.1	1985	NA	NA	0		KM 6 feb 2024: update No sites from 0 to 1; should be zero					
+Sweden	AU4	Emån	3	Ordinary	11.1	1986	NA	NA	0		KM 6 feb 2024: update No sites from 0 to 1; should be zero					
+Sweden	AU4	Emån	3	Ordinary	11.1	1987	0.0	0.0	2							
+Sweden	AU4	Emån	3	Ordinary	11.1	1988	0.0	0.9	2							
+Sweden	AU4	Emån	3	Ordinary	11.1	1989	0.0	0.0	1	yes						
+Sweden	AU4	Emån	3	Ordinary	11.1	1990	0.0	0.0	1	yes						
+Sweden	AU4	Emån	3	Ordinary	11.1	1991	0.0	0.0	1	yes						
+Sweden	AU4	Emån	3	Ordinary	11.1	1992	0.0	0.0	1	yes						
+Sweden	AU4	Emån	3	Ordinary	11.1	1993	0.0	0.0	1	yes						
+Sweden	AU4	Emån	3	Ordinary	11.1	1994	0.0	0.0	1							
+Sweden	AU4	Emån	3	Ordinary	11.1	1995	0.0	0.0	1							
+Sweden	AU4	Emån	3	Ordinary	11.1	1996	0.0	0.0	2							
+Sweden	AU4	Emån	3	Ordinary	11.1	1997	0.0	0.0	1							
+Sweden	AU4	Emån	3	Ordinary	11.1	1998	0.0	0.0	2							
+Sweden	AU4	Emån	3	Ordinary	11.1	1999	6.6	0.0	2			81.4		210		
+Sweden	AU4	Emån	3	Ordinary	11.1	2000	2.3	0.0	5			103.3		246		
+Sweden	AU4	Emån	3	Ordinary	11.1	2001	1.8	0.0	1	yes						
+Sweden	AU4	Emån	3	Ordinary	11.1	2002	1.4	0.0	1	yes						
+Sweden	AU4	Emån	3	Ordinary	11.1	2003	0.9	0.0	1	yes						
+Sweden	AU4	Emån	3	Ordinary	11.1	2004	0.5	0.0	1	yes						
+Sweden	AU4	Emån	3	Ordinary	11.1	2005	0.0	0.0	3							
+Sweden	AU4	Emån	3	Ordinary	11.1	2006	0.0	0.0	3							
+Sweden	AU4	Emån	3	Ordinary	11.1	2007	0.0	0.0	1							
+Sweden	AU4	Emån	3	Ordinary	11.1	2008	0.0	0.0	2							
+Sweden	AU4	Emån	3	Ordinary	11.1	2009	6.7	0.0	3			97.1		251		
+Sweden	AU4	Emån	3	Ordinary	11.1	2010	3.4	0.0	1	yes						
+Sweden	AU4	Emån	3	Ordinary	11.1	2011	0.0	0.0	2							
+Sweden	AU4	Emån	3	Ordinary	11.1	2012	0.0	0.0	4							
+Sweden	AU4	Emån	3	Ordinary	11.1	2013	0.7	0.0	4			76.5		253		
+Sweden	AU4	Emån	3	Ordinary	11.1	2014	3.8	0.0	4			86.1		253		
+Sweden	AU4	Emån	3	Ordinary	11.1	2015	0.6	2.3	4			80.0		251		
+Sweden	AU4	Emån	3	Ordinary	11.1	2016	1.7	0.3	6			82.6		252		
+Sweden	AU4	Emån	3	Ordinary	11.1	2017	0.0	0.4	5							
+Sweden	AU4	Emån	3	Ordinary	11.1	2018	0.2	0.0	6			74.5		250		
+Sweden	AU4	Emån	3	Ordinary	11.1	2019	0.0	0.0	5							
+Sweden	AU4	Emån	3	Ordinary	11.1	2020	0.0	0.0	5							
+Sweden	AU4	Emån	3	Ordinary	11.1	2021	0.8	0.0	6			71.6		252		
+Sweden	AU4	Emån	3	Ordinary	11.1	2022	0.5	0.1	5		SP: en lokal kunde ej elfiskas	82.7		252		
+Sweden	AU4	Emån	3	Ordinary	11.1	2023	0.0	0.0	6							
+Sweden	AU4	Emån	3	Ordinary	11.1	2024	1.1	0.4	6			79.0		248		
+Sweden	AU4	Emån	3	Ordinary	11.1	2025	NA	NA	1		Projektering ett år framåt			244		
+Sweden	AU3	Testeboån	1	Ordinary	11.0	1985	0.0	0.0	1	yes						
+Sweden	AU3	Testeboån	1	Ordinary	11.0	1986	0.0	0.0	1	yes						
+Sweden	AU3	Testeboån	1	Ordinary	11.0	1987	0.0	0.0	1	yes						
+Sweden	AU3	Testeboån	1	Ordinary	11.0	1988	0.0	0.0	1	yes						
+Sweden	AU3	Testeboån	1	Ordinary	11.0	1989	0.0	0.0	1	yes				227		
+Sweden	AU3	Testeboån	1	Ordinary	11.0	1990	0.0	0.0	1	yes				234		
+Sweden	AU3	Testeboån	1	Ordinary	11.0	1991	0.0	0.0	1	yes				257		
+Sweden	AU3	Testeboån	1	Ordinary	11.0	1992	0.0	0.0	1	yes				240		
+Sweden	AU3	Testeboån	1	Ordinary	11.0	1993	0.0	0.0	1	yes				274		
+Sweden	AU3	Testeboån	1	Ordinary	11.0	1994	0.0	0.0	1	yes				230		
+Sweden	AU3	Testeboån	1	Ordinary	11.0	1995	0.0	0.0	1	yes				262		
+Sweden	AU3	Testeboån	1	Ordinary	11.0	1996	0.0	0.0	1	yes				260		
+Sweden	AU3	Testeboån	1	Ordinary	11.0	1997	0.0	0.0	1	yes						
+Sweden	AU3	Testeboån	1	Ordinary	11.0	1998	0.0	0.0	1	yes				271		
+Sweden	AU3	Testeboån	1	Ordinary	11.0	1999	0.0	0.0	1	yes				238		
+Sweden	AU3	Testeboån	1	Ordinary	11.0	2000	1.0	0.8	1	yes				278		
+Sweden	AU3	Testeboån	1	Ordinary	11.0	2001	2.1	1.6	1	yes				258		
+Sweden	AU3	Testeboån	1	Ordinary	11.0	2002	3.1	2.3	1	yes				254		
+Sweden	AU3	Testeboån	1	Ordinary	11.0	2003	4.2	3.1	1	yes				267		
+Sweden	AU3	Testeboån	1	Ordinary	11.0	2004	5.2	3.9	1	yes						
+Sweden	AU3	Testeboån	1	Ordinary	11.0	2005	6.3	4.7	1	yes		78.3		272		
+Sweden	AU3	Testeboån	1	Ordinary	11.0	2006	7.3	5.5	1	yes		70.4		282		
+Sweden	AU3	Testeboån	1	Ordinary	11.0	2007	9.8	16.2	11			74.8		265		
+Sweden	AU3	Testeboån	1	Ordinary	11.0	2008	0.0	4.8	11					268		
+Sweden	AU3	Testeboån	1	Ordinary	11.0	2009	8.8	0.8	11			82.6		273		
+Sweden	AU3	Testeboån	1	Ordinary	11.0	2010	12.3	6.9	11			74.3		265		
+Sweden	AU3	Testeboån	1	Ordinary	11.0	2011	10.9	2.5	11			76.1		247		
+Sweden	AU3	Testeboån	1	Ordinary	11.0	2012	10.2	6.0	11			77.0		241		
+Sweden	AU3	Testeboån	1	Ordinary	11.0	2013	15.7	9.9	11			72.7		231		
+Sweden	AU3	Testeboån	1	Ordinary	11.0	2014	5.2	7.9	11			72.1		241		
+Sweden	AU3	Testeboån	1	Ordinary	11.0	2015	11.2	0.8	11			87.3		251		
+Sweden	AU3	Testeboån	1	Ordinary	11.0	2016	27.8	6.0	11			74.1		230		
+Sweden	AU3	Testeboån	1	Ordinary	11.0	2017	6.5	6.7	11			78.8		258		
+Sweden	AU3	Testeboån	1	Ordinary	11.0	2018	4.9	5.7	11			68.3		234		
+Sweden	AU3	Testeboån	1	Ordinary	11.0	2019	2.7	3.9	11			77.5		245		
+Sweden	AU3	Testeboån	1	Ordinary	11.0	2020	28.2	1.9	11			68.2		246		
+Sweden	AU3	Testeboån	1	Ordinary	11.0	2021	18.1	14.9	2		Adjusted densities due to few unrepresentative sites	69.0		263		
+Sweden	AU3	Testeboån	1	Ordinary	11.0	2022	42.6	10.7	11			65.7		227		
+Sweden	AU3	Testeboån	1	Ordinary	11.0	2023	NA	NA	0		Testeboån hade kraftigt högvatten och många lokaler (det finns 15 nu) fiskades inte. De som fiskades är troligen inte representativa kolla med JD hur vi ska hantera detta (JD 2 feb 2024; NA).	75.3		282		
+Sweden	AU3	Testeboån	1	Ordinary	11.0	2024	19.4	6.8	11		Projektering ett år framåt	70.6		246		
+Sweden	AU3	Testeboån	1	Ordinary	11.0	2025	NA	NA	1					251		
+Sweden	AU3	Ljungan	1	Ordinary	50	1985	NA	NA	0		Ljungan included 2024 and habitat increased from 19 to 50 ha					
+Sweden	AU3	Ljungan	1	Ordinary	50	1986	11	2.7	1		Ljungan included 2024 and habitat increased from 19 to 50 ha					
+Sweden	AU3	Ljungan	1	Ordinary	50	1987	NA	NA	0		Ljungan included 2024 and habitat increased from 19 to 50 ha					
+Sweden	AU3	Ljungan	1	Ordinary	50	1988	9.1	1.8	3		Ljungan included 2024 and habitat increased from 19 to 50 ha	61.9		250		
+Sweden	AU3	Ljungan	1	Ordinary	50	1989	19.7	5.5	3		Ljungan included 2024 and habitat increased from 19 to 50 ha	70.7		263		
+Sweden	AU3	Ljungan	1	Ordinary	50	1990	5.5	4.8	3		Ljungan included 2024 and habitat increased from 19 to 50 ha			285		
+Sweden	AU3	Ljungan	1	Ordinary	50	1991	16.5	0.6	3		Ljungan included 2024 and habitat increased from 19 to 50 ha	71.4		225		
+Sweden	AU3	Ljungan	1	Ordinary	50	1992	NA	NA	0		Ljungan included 2024 and habitat increased from 19 to 50 ha					
+Sweden	AU3	Ljungan	1	Ordinary	50	1993	NA	NA	0		Ljungan included 2024 and habitat increased from 19 to 50 ha					
+Sweden	AU3	Ljungan	1	Ordinary	50	1994	6.9	0.2	3		Ljungan included 2024 and habitat increased from 19 to 50 ha	64.5		241		
+Sweden	AU3	Ljungan	1	Ordinary	50	1995	11.9	0.9	3		Ljungan included 2024 and habitat increased from 19 to 50 ha	66.4		285		
+Sweden	AU3	Ljungan	1	Ordinary	50	1996	8.6	6.5	3		Ljungan included 2024 and habitat increased from 19 to 50 ha	66.3		247		
+Sweden	AU3	Ljungan	1	Ordinary	50	1997	19.6	2.1	6		Ljungan included 2024 and habitat increased from 19 to 50 ha	63.4		260		
+Sweden	AU3	Ljungan	1	Ordinary	50	1998	NA	NA	0		Ljungan included 2024 and habitat increased from 19 to 50 ha					
+Sweden	AU3	Ljungan	1	Ordinary	50	1999	17.4	7.9	5		Ljungan included 2024 and habitat increased from 19 to 50 ha	69.5		273		
+Sweden	AU3	Ljungan	1	Ordinary	50	2000	10.6	6.5	7		Ljungan included 2024 and habitat increased from 19 to 50 ha					
+Sweden	AU3	Ljungan	1	Ordinary	50	2001	NA	NA	0		Ljungan included 2024 and habitat increased from 19 to 50 ha					
+Sweden	AU3	Ljungan	1	Ordinary	50	2002	23.9	2.6	8		Ljungan included 2024 and habitat increased from 19 to 50 ha	67.3		251		
+Sweden	AU3	Ljungan	1	Ordinary	50	2003	11.6	0.2	8		Ljungan included 2024 and habitat increased from 19 to 50 ha	65.9		261		
+Sweden	AU3	Ljungan	1	Ordinary	50	2004	3.1	1.4	9		Ljungan included 2024 and habitat increased from 19 to 50 ha	66.8		254		
+Sweden	AU3	Ljungan	1	Ordinary	50	2005	45.3	2.3	9		Ljungan included 2024 and habitat increased from 19 to 50 ha	75.2		279		
+Sweden	AU3	Ljungan	1	Ordinary	50	2006	NA	NA	0		Ljungan included 2024 and habitat increased from 19 to 50 ha					
+Sweden	AU3	Ljungan	1	Ordinary	50	2007	6.8	2.1	9		Ljungan included 2024 and habitat increased from 19 to 50 ha	74.1		242		
+Sweden	AU3	Ljungan	1	Ordinary	50	2008	18.9	0.3	3		Ljungan included 2024 and habitat increased from 19 to 50 ha	76.1		297		
+Sweden	AU3	Ljungan	1	Ordinary	50	2009	NA	NA	0		Ljungan included 2024 and habitat increased from 19 to 50 ha					
+Sweden	AU3	Ljungan	1	Ordinary	50	2010	NA	NA	0		Ljungan included 2024 and habitat increased from 19 to 50 ha					
+Sweden	AU3	Ljungan	1	Ordinary	50	2011	NA	NA	0		Ljungan included 2024 and habitat increased from 19 to 50 ha					
+Sweden	AU3	Ljungan	1	Ordinary	50	2012	91.1	5.6	1		Ljungan included 2024 and habitat increased from 19 to 50 ha	62.8		214		
+Sweden	AU3	Ljungan	1	Ordinary	50	2013	NA	NA	0		Ljungan included 2024 and habitat increased from 19 to 50 ha					
+Sweden	AU3	Ljungan	1	Ordinary	50	2014	48.93	0.7	6		Ljungan included 2024 and habitat increased from 19 to 50 ha	62.5		245		
+Sweden	AU3	Ljungan	1	Ordinary	50	2015	106.8	12.2	9		Ljungan included 2024 and habitat increased from 19 to 50 ha	65.5		244		
+Sweden	AU3	Ljungan	1	Ordinary	50	2016	26.8	4.5	9		Ljungan included 2024 and habitat increased from 19 to 50 ha	64.3		249		
+Sweden	AU3	Ljungan	1	Ordinary	50	2017	0.8	2.3	10		Ljungan included 2024 and habitat increased from 19 to 50 ha	68.6		240		
+Sweden	AU3	Ljungan	1	Ordinary	50	2018	0.0	0.2	6		Ljungan included 2024 and habitat increased from 19 to 50 ha			261		
+Sweden	AU3	Ljungan	1	Ordinary	50	2019	3.4	0.0	10		Ljungan included 2024 and habitat increased from 19 to 50 ha	75.7		245		
+Sweden	AU3	Ljungan	1	Ordinary	50	2020	4.2	1.6	11		Ljungan included 2024 and habitat increased from 19 to 50 ha	73.4		245		
+Sweden	AU3	Ljungan	1	Ordinary	50	2021	0.3	0.5	12		Ljungan included 2024 and habitat increased from 19 to 50 ha	86.0		250		
+Sweden	AU3	Ljungan	1	Ordinary	50	2022	25.3	0.3	10		Ljungan included 2024 and habitat increased from 19 to 50 ha	75.9		249		
+Sweden	AU3	Ljungan	1	Ordinary	50	2023	NA	NA	0		Inget fiske pga högvatten					
+Sweden	AU3	Ljungan	1	Ordinary	50	2024	25.3	6.6	11		Projektering ett år framåt	75.1		261		
+Sweden	AU3	Ljungan	1	Ordinary	50	2025	NA	NA	1					251		
+Estonia	AU6	Vasalemma	1	wild	2.4	1992	1.69	0.94	1			85.8		266	9	22
+Estonia	AU6	Vasalemma	1	wild	2.4	1995	23.66	0.45	1			87.5	6.5	226	8	14
+Estonia	AU6	Vasalemma	1	wild	2.4	1996	6.09	5.90	1			96.6		263	9	19
+Estonia	AU6	Vasalemma	1	wild	2.4	1997	0.00	1.81	1					237	8	25
+Estonia	AU6	Vasalemma	1	wild	2.4	1998	0.00	0.15	2					231	8	19
+Estonia	AU6	Vasalemma	1	wild	2.4	1999	17.11	0.00	1			84.4		236	8	24
+Estonia	AU6	Vasalemma	1	wild	2.4	2000	4.38	2.04	1			87.7		230	8	17
+Estonia	AU6	Vasalemma	1	wild	2.4	2001	0.54	1.01	1			97	8.5	262	9	19
+Estonia	AU6	Vasalemma	1	wild	2.4	2002	8.93	0.38	1			101.2		276	10	3
+Estonia	AU6	Vasalemma	1	wild	2.4	2003	0.00	0.00	1					280	10	7
+Estonia	AU6	Vasalemma	1	wild	2.4	2004	0.00	0.00	1					259	9	15
+Estonia	AU6	Vasalemma	1	wild	2.4	2005	21.45	0.00	1			108.1		255	9	12
+Estonia	AU6	Vasalemma	1	wild	2.4	2006	9.94	0.95	2			90.4		250	9	7
+Estonia	AU6	Vasalemma	1	wild	2.4	2007	5.24	0.29	2			107.1		236	8	24
+Estonia	AU6	Vasalemma	1	wild	2.4	2008	2.48	1.08	2			110.7	13.3	267	9	23
+Estonia	AU6	Vasalemma	1	wild	2.4	2009	37.62	0.00	2			83.4	6.2	238	8	26
+Estonia	AU6	Vasalemma	1	wild	2.4	2010	26.01	1.86	2			83.4	5.6	252	9	9
+Estonia	AU6	Vasalemma	1	wild	2.4	2011	7.33	4.14	2			97.9	8.8	249	9	6
+Estonia	AU6	Vasalemma	1	wild	2.4	2012	6.81	1.09	2			91.1	6.9	252	9	8
+Estonia	AU6	Vasalemma	1	wild	2.4	2013	39.77	3.48	2			86.1	6.1	246	9	3
+Estonia	AU6	Vasalemma	1	wild	2.4	2014	26.07	4.24	2			88.4	7	255	9	12
+Estonia	AU6	Vasalemma	1	wild	2.4	2015	2.07	6.43	2			100.5	9.5	250	9	7
+Estonia	AU6	Vasalemma	1	wild	2.4	2016	18.24	0.51	2			102.8	10.2	253	9	9
+Estonia	AU6	Vasalemma	1	wild	2.4	2017	65.15	5.22	2			82.3	5.6	234	8	22
+Estonia	AU6	Vasalemma	1	wild	2.4	2018	27.77	8.89	2			75.7	4.3	229	8	17.5
+Estonia	AU6	Vasalemma	1	wild	2.4	2019	33.37	5.13	2			83.4	5.8	225	8	13
+Estonia	AU6	Vasalemma	1	wild	2.4	2020	44.06	12.48	2			82.5	5.6	237	8	24.5
+Estonia	AU6	Vasalemma	1	wild	2.4	2021	31.80	9.82	2			75.3	4.3	236	8	24
+Estonia	AU6	Vasalemma	1	wild	2.4	2022	46.63	9.08	2			77.8	4.6	250	9	7
+Estonia	AU6	Vasalemma	1	wild	2.4	2023	37.80	3.88	2			82.6	5.3	244	9	1
+Estonia	AU6	Vasalemma	1	wild	2.4	2024	186.93	12.69	2			77.9	4.7	226	8	13
+Estonia	AU6	Vasalemma	1	wild	2.4	2025	88.39	15.62	2			84.4	6.3	260	9	17
+Estonia	AU6	Vasalemma	2	wild	5	2019	0	0	2					234	8	22
+Estonia	AU6	Vasalemma	2	wild	5	2020	5.25	0.15	2			76.28	4.14	238	8	25
+Estonia	AU6	Vasalemma	2	wild	5	2021	14.82	1.54	2			71.94	3.59	237	8	25
+Estonia	AU6	Vasalemma	2	wild	5	2022	17.53	0.77	2			76.56	4.23	250	9	7
+Estonia	AU6	Vasalemma	2	wild	5	2023	0.56	2.23	2			89.67	6.73	244	9	1
+Estonia	AU6	Vasalemma	2	wild	5	2024	24.51	0.26	2			73.68	3.91	226	8	13
+Estonia	AU6	Vasalemma	2	wild	5	2025	15.51	2.25	2			85.27	5.97	260	9	17
+Estonia	AU6	Keila	1	wild	4.2	1994	1.15	1.07	1			79.8		229	8	17
+Estonia	AU6	Keila	1	wild	4.2	1995	8.85	0.41	1			85.9	6.4	227	8	15
+Estonia	AU6	Keila	1	wild	4.2	1996	14.90	1.31	1			98.0		263	9	19
+Estonia	AU6	Keila	1	wild	4.2	1997	0.00	6.16	1			79.0		236	8	24
+Estonia	AU6	Keila	1	wild	4.2	1998	0.00	6.55	1					232	8	20
+Estonia	AU6	Keila	1	wild	4.2	1999	120.27	1.47	1					236	8	24
+Estonia	AU6	Keila	1	wild	4.2	2000	4.78	5.39	1			95.2		230	8	17
+Estonia	AU6	Keila	1	wild	4.2	2001	0.00	1.54	1					262	9	19
+Estonia	AU6	Keila	1	wild	4.2	2002	8.44	0.44	1			101.8	10.4	256	9	13
+Estonia	AU6	Keila	1	wild	4.2	2003	0.00	0.00	1					258	9	15
+Estonia	AU6	Keila	1	wild	4.2	2004	0.62	0.00	1			107.0		254	9	10
+Estonia	AU6	Keila	1	wild	4.2	2005	31.93	3.02	1			90.4		255	9	12
+Estonia	AU6	Keila	1	wild	4.2	2006	6.29	7.99	1			76.1		250	9	7
+Estonia	AU6	Keila	1	wild	4.2	2007	18.86	2.77	1			96.6		236	8	24
+Estonia	AU6	Keila	1	wild	4.2	2008	44.17	4.31	1			77.6	4.5	266	9	22
+Estonia	AU6	Keila	1	wild	4.2	2009	55.83	25.77	1			75.7	4.6	238	8	26
+Estonia	AU6	Keila	1	wild	4.2	2010	110.08	12.31	1			79.4	5.1	252	9	9
+Estonia	AU6	Keila	1	wild	4.2	2011	24.95	24.68	1			83.3	5.7	245	9	2
+Estonia	AU6	Keila	1	wild	4.2	2012	43.54	3.94	3			77.8	4.6	252	9	8
+Estonia	AU6	Keila	1	wild	4.2	2013	157.09	33.84	1			73.5	4.0	246	9	3
+Estonia	AU6	Keila	1	wild	4.2	2014	82.20	48.91	1			77.4	4.8	239	8	27
+Estonia	AU6	Keila	1	wild	4.2	2015	111.76	18.12	1			76.1	4.2	250	9	7
+Estonia	AU6	Keila	1	wild	4.2	2016	107.62	25.83	1			77.6	4.9	238	8	25
+Estonia	AU6	Keila	1	wild	4.2	2017	283.15	27.01	1			79.9	3.3	234	8	22
+Estonia	AU6	Keila	1	wild	4.2	2018	179.51	40.64	1			65.4	3.0	233	8	21
+Estonia	AU6	Keila	1	wild	4.2	2019	233.67	23.36	1			68.9	3.5	225	8	13
+Estonia	AU6	Keila	1	wild	4.2	2020	207.47	31.68	1			67.0	2.9	251	9	7
+Estonia	AU6	Keila	1	wild	4.2	2021	93.07	33.27	1			62.0	2.4	236	8	24
+Estonia	AU6	Keila	1	wild	4.2	2022	135.71	27.55	1			71.0	3.7	250	9	7
+Estonia	AU6	Keila	1	wild	4.2	2023	119.50	12.58	1			80.4	5.3	244	9	1
+Estonia	AU6	Keila	1	wild	4.2	2024	247.69	24.03	1			69.7	3.5	234	8	21
+Estonia	AU6	Keila	1	wild	4.2	2025	204.50	40.91	1			59.8	2.1	225	8	13
+Estonia	AU6	Vääna	1	mixed	2	1994	0	0	1					272	9	29
+Estonia	AU6	Vääna	1	mixed	2	1995	0	0	1					271	9	28
+Estonia	AU6	Vääna	1	mixed	2	1998	0.00	0.11	2					266	9	23.5
+Estonia	AU6	Vääna	1	mixed	2	1999	0.00	0.37	1					244	9	1
+Estonia	AU6	Vääna	1	mixed	2	2000	0.08	0.00	2			111		291	10	17.6
+Estonia	AU6	Vääna	1	mixed	2	2001	0.00	0.00	1					278	10	5
+Estonia	AU6	Vääna	1	mixed	2	2002	0.00	0.18	3					274	10	1
+Estonia	AU6	Vääna	1	mixed	2	2003	0.00	0.00	3					281	10	8
+Estonia	AU6	Vääna	1	mixed	2	2004	0.00	0.00	2					258	9	14
+Estonia	AU6	Vääna	1	mixed	2	2005	0.00	0.00	3					245	9	2
+Estonia	AU6	Vääna	1	mixed	2	2006	17.62	0.00	3			71.7	3.9	221	8	9.5
+Estonia	AU6	Vääna	1	mixed	2	2007	0.00	0.63	3					235	8	23
+Estonia	AU6	Vääna	1	mixed	2	2008	12.11	0.00	3			83.6	5.8	266	9	22
+Estonia	AU6	Vääna	1	mixed	2	2009	9.03	4.18	3			84.9	6.0	241.5	8 and 9	2 and 26
+Estonia	AU6	Vääna	1	mixed	2	2010	0.00	1.09	3					253	9	10
+Estonia	AU6	Vääna	1	mixed	2	2011	0.00	0.32	3					247	9	4
+Estonia	AU6	Vääna	1	mixed	2	2012	3.27	0.00	3			81.0	5.0	253	9	9
+Estonia	AU6	Vääna	1	mixed	2	2013	11.25	0.98	3			78.5	4.6	250	9	7
+Estonia	AU6	Vääna	1	mixed	2	2014	12.10	1.54	3			73.2	4.2	240	8	28
+Estonia	AU6	Vääna	1	mixed	2	2015	0.00	1.50	3					240	8	28
+Estonia	AU6	Vääna	1	mixed	2	2016	0.00	0.24	3					238	8	25
+Estonia	AU6	Vääna	1	mixed	2	2017	10.84	0.14	3			77.3	4.1	252	9	9
+Estonia	AU6	Vääna	1	mixed	2	2018	12.24	1.79	3			73.8	4.2	226	8	14
+Estonia	AU6	Vääna	1	mixed	2	2019	6.20	0.34	3			69.5	4.2	225	8	13
+Estonia	AU6	Vääna	1	mixed	2	2020	9.50	2.02	3			99.9	10.9	244.5	8 and 9	25 and 7
+Estonia	AU6	Vääna	1	mixed	2	2021	8.47	0.47	3			75.0	4.5	234	8	22
+Estonia	AU6	Vääna	1	mixed	2	2022	10.56	0.81	3			75.1	4.2	257	9	14.5
+Estonia	AU6	Vääna	1	mixed	2	2023	1.75	0.44	3			82.4	5.7	243.6666667	8 and 9	21, 29 and 14
+Estonia	AU6	Vääna	1	mixed	2	2024	27.97	0.44	3			82.3	6.0	226	8	13
+Estonia	AU6	Vääna	1	mixed	2	2025	58.17	0.94	3			72.4	4.0	225	8	13
+Estonia	AU6	Pirita	1	mixed+smolt	10	1992	0.95	0.35	2			90.9		245	9	1
+Estonia	AU6	Pirita	1	mixed+smolt	10	1994	0	0	1					227	8	15
+Estonia	AU6	Pirita	1	mixed+smolt	10	1995	0	0	1					232	8	20
+Estonia	AU6	Pirita	1	mixed+smolt	10	1998	0	0	2					230	8	18.5
+Estonia	AU6	Pirita	1	mixed+smolt	10	1999	7.75	0.13	3			84.7	4.5	240	8 and 9	23 and 2
+Estonia	AU6	Pirita	1	mixed+smolt	10	2000	0.00	0.56	3					231	8	18
+Estonia	AU6	Pirita	1	mixed+smolt	10	2001	1.49	0.05	4			101.7	9.12	277	10	4
+Estonia	AU6	Pirita	1	mixed+smolt	10	2002	0.00	0.30	4					254	9	11
+Estonia	AU6	Pirita	1	mixed+smolt	10	2003	0.00	2.82	4					255	9	12
+Estonia	AU6	Pirita	1	mixed+smolt	10	2004	0.22	0.80	4			71.6		280	10	6.5
+Estonia	AU6	Pirita	1	mixed+smolt	10	2005	24.04	8.69	4			96.4		256	9	13
+Estonia	AU6	Pirita	1	mixed+smolt	10	2006	8.89	3.02	4			76.9	5.2	241	8	29.5
+Estonia	AU6	Pirita	1	mixed+smolt	10	2007	3.20	3.44	4			90.8		220	8	8
+Estonia	AU6	Pirita	1	mixed+smolt	10	2008	14.62	5.78	4			95.9	8.1	267	9	23
+Estonia	AU6	Pirita	1	mixed+smolt	10	2009	26.85	7.55	4			85.2	6.0	246	9	3.5
+Estonia	AU6	Pirita	1	mixed+smolt	10	2010	12.21	5.43	4			81.3	5.1	251	9	8
+Estonia	AU6	Pirita	1	mixed+smolt	10	2011	0.56	1.76	4			94.8	9.2	241	8	29
+Estonia	AU6	Pirita	1	mixed+smolt	10	2012	12.81	0.37	7			93.4	8.2	253	9	9.5
+Estonia	AU6	Pirita	1	mixed+smolt	10	2013	38.32	8.07	4			84.7	6.1	240	8 and 9	23 and 2
+Estonia	AU6	Pirita	1	mixed+smolt	10	2014	19.74	4.62	4			92.8	7.9	251	9	8
+Estonia	AU6	Pirita	1	mixed+smolt	10	2015	61.59	2.92	4			90.5	7.7	254	9	11
+Estonia	AU6	Pirita	1	mixed+smolt	10	2016	2.97	8.77	4			93.8	8.2	256	9	12
+Estonia	AU6	Pirita	1	mixed+smolt	10	2017	81.44	1.92	4			88.7	7.1	238.6666667	8 and 923 and 2	25 and 1
+Estonia	AU6	Pirita	1	mixed+smolt	11.9	2018	27.93	8.16	4			72.1	3.7	236	8	24.5
+Estonia	AU6	Pirita	1	mixed+smolt	11.9	2019	23.86	3.19	4			75.5	4.4	224	8	12.5
+Estonia	AU6	Pirita	1	mixed+smolt	11.9	2020	78.23	3.76	4			87.4	7.2	249	9	5
+Estonia	AU6	Pirita	1	mixed+smolt	11.9	2021	40.14	13.25	4			79.2	5.0	251	9	8
+Estonia	AU6	Pirita	1	mixed+smolt	11.9	2022	29.86	9.51	4			79.1	4.9	254	9	11
+Estonia	AU6	Pirita	1	mixed+smolt	11.9	2023	25.26	4.25	4			74.9	4.4	223	8	11
+Estonia	AU6	Pirita	1	mixed+smolt	11.9	2024	48.97	4.37	4			78.7	4.9	253.6666667	8 and 923 and 2	12 and 25
+Estonia	AU6	Pirita	1	mixed+smolt	11.9	2025	72.15	16.40	4			76.1	4.5	254	9	11
+Estonia	AU6	Jägala	1	mixed	0.3	1992	0	0	1							
+Estonia	AU6	Jägala	1	mixed	0.3	1997	0	0	1							
+Estonia	AU6	Jägala	1	mixed	0.3	1998	0	0	1							
+Estonia	AU6	Jägala	1	mixed	0.3	1999	1.27	0	1							
+Estonia	AU6	Jägala	1	mixed	0.3	2000	0.00	0	1							
+Estonia	AU6	Jägala	1	mixed	0.3	2001	18.94	0	1							
+Estonia	AU6	Jägala	1	mixed	0.3	2002	0.00	0	1							
+Estonia	AU6	Jägala	1	mixed	0.3	2004	0.63	0	1							
+Estonia	AU6	Jägala	1	mixed	0.3	2005	4.43	0	1							
+Estonia	AU6	Jägala	1	mixed	0.3	2006	0.00	0.20	1							
+Estonia	AU6	Jägala	1	mixed	0.3	2007	0.00	0.01	1							
+Estonia	AU6	Jägala	1	mixed	0.3	2008	6.56	0.00	1							
+Estonia	AU6	Jägala	1	mixed	0.3	2009	0.44	0.87	1							
+Estonia	AU6	Jägala	1	mixed	0.3	2010	4.40	0.00	1							
+Estonia	AU6	Jägala	1	mixed	0.3	2011	0.00	0.00	1							
+Estonia	AU6	Jägala	1	mixed	0.3	2012	11.58	0.00	1							
+Estonia	AU6	Jägala	1	mixed	0.3	2013	0.25	0.00	1							
+Estonia	AU6	Jägala	1	mixed	0.3	2014	1.50	0.00	1							
+Estonia	AU6	Jägala	1	mixed	0.3	2015	0.00	0.00	1							
+Estonia	AU6	Jägala	1	mixed	0.3	2016	3.15	0.00	1							
+Estonia	AU6	Jägala	1	mixed	0.3	2017	1.28	1.28	1							
+Estonia	AU6	Jägala	1	mixed	0.3	2018	1.25	0.00	1							
+Estonia	AU6	Jägala	1	mixed	0.3	2019	0.00	0.00	1							
+Estonia	AU6	Jägala	1	mixed	0.3	2020	1.68	0.00	1							
+Estonia	AU6	Jägala	1	mixed	0.3	2021	24.84	0.00	1							
+Estonia	AU6	Jägala	1	mixed	0.3	2022	17.38	8.22	1							
+Estonia	AU6	Jägala	1	mixed	0.3	2023	1.19	0.40	1							
+Estonia	AU6	Jägala	1	mixed	0.3	2024	31.35	0.00	1							
+Estonia	AU6	Jägala	1	mixed	0.3	2025	29.12	2.61	1							
+Estonia	AU6	Valgejõgi	1	mixed	2.9	1976	0.16	3.06	1		Below Kotka dam					
+Estonia	AU6	Valgejõgi	1	mixed	2.9	1983	0	0	1		Below Kotka dam					
+Estonia	AU6	Valgejõgi	1	mixed	2.9	1990	0	0	1		Below Kotka dam					
+Estonia	AU6	Valgejõgi	1	mixed	2.9	1995	0	0	1		Below Kotka dam					
+Estonia	AU6	Valgejõgi	1	mixed	2.9	1996	0	0	1		Below Kotka dam					
+Estonia	AU6	Valgejõgi	1	mixed	2.9	1997	0	0	1		Below Kotka dam					
+Estonia	AU6	Valgejõgi	1	mixed	2.9	1998	0	0	1		Below Kotka dam					
+Estonia	AU6	Valgejõgi	1	mixed	2.9	1999	1.69	0.89	1		Below Kotka dam					
+Estonia	AU6	Valgejõgi	1	mixed	2.9	2000	0.33	0.68	1		Below Kotka dam					
+Estonia	AU6	Valgejõgi	1	mixed	2.9	2001	2.35	0.65	2		Below Kotka dam					
+Estonia	AU6	Valgejõgi	1	mixed	2.9	2002	8.94	0	1		Below Kotka dam					
+Estonia	AU6	Valgejõgi	1	mixed	2.9	2003	0.14	0.26	2		Below Kotka dam					
+Estonia	AU6	Valgejõgi	1	mixed	2.9	2004	0.84	3.63	1		Below Kotka dam					
+Estonia	AU6	Valgejõgi	1	mixed	2.9	2005	7.38	3.27	3		Below Kotka dam					
+Estonia	AU6	Valgejõgi	1	mixed	2.9	2006	12.40	2.97	3		Below Kotka dam					
+Estonia	AU6	Valgejõgi	1	mixed	2.9	2007	8.79	6.70	3		Below Kotka dam					
+Estonia	AU6	Valgejõgi	1	mixed	2.9	2008	8.53	5.15	3		Below Kotka dam					
+Estonia	AU6	Valgejõgi	1	mixed	2.9	2009	20.16	5.73	3		Below Kotka dam					
+Estonia	AU6	Valgejõgi	1	mixed	2.9	2010	5.57	7.15	3		Below Kotka dam					
+Estonia	AU6	Valgejõgi	1	mixed	2.9	2011	0.00	3.64	3		Below Kotka dam					
+Estonia	AU6	Valgejõgi	1	mixed	2.9	2012	10.99	0.78	3		Below Kotka dam					
+Estonia	AU6	Valgejõgi	1	mixed	2.9	2013	19.21	4.19	3		Below Kotka dam					
+Estonia	AU6	Valgejõgi	1	mixed	2.9	2014	21.62	5.10	3		Below Kotka dam					
+Estonia	AU6	Valgejõgi	1	mixed	2.9	2015	16.77	6.79	3		Below Kotka dam					
+Estonia	AU6	Valgejõgi	1	mixed	2.9	2016	0.63	3.03	3		Below Kotka dam					
+Estonia	AU6	Valgejõgi	1	mixed	2.9	2017	21.61	3.39	3		Below Kotka dam					
+Estonia	AU6	Valgejõgi	1	mixed	2.9	2018	25.80	4.17	3		Below Kotka dam					
+Estonia	AU6	Valgejõgi	1	mixed	2.9	2019	26.45	2.74	3		Below Kotka dam					
+Estonia	AU6	Valgejõgi	1	mixed	2.9	2020	60.50	6.92	2		Below Kotka dam					
+Estonia	AU6	Valgejõgi	1	mixed	2.9	2021	16.77	10.77	2		Below Kotka dam					
+Estonia	AU6	Valgejõgi	1	mixed	2.9	2022	98.02	3.49	2		Below Kotka dam					
+Estonia	AU6	Valgejõgi	1	mixed	2.9	2023	47.42	15.10	2		Below Kotka dam					
+Estonia	AU6	Valgejõgi	1	mixed	2.9	2024	22.56	7.38	2		Below Kotka dam					
+Estonia	AU6	Valgejõgi	1	mixed	2.9	2025	17.08	7.20	2		Below Kotka dam					
+Estonia	AU6	Valgejõgi	2	mixed	1.74	2018	0.33	0	1		From Kotka dam to Nõmmeveski bridge					
+Estonia	AU6	Valgejõgi	2	mixed	1.74	2019	0	1.34	1		From Kotka dam to Nõmmeveski bridge					
+Estonia	AU6	Valgejõgi	2	mixed	1.74	2020	28.78	1.73	1		From Kotka dam to Nõmmeveski bridge					
+Estonia	AU6	Valgejõgi	2	mixed	1.74	2021	6.34	6.76	1		From Kotka dam to Nõmmeveski bridge					
+Estonia	AU6	Valgejõgi	2	mixed	1.74	2022	0.64	4.82	1		From Kotka dam to Nõmmeveski bridge					
+Estonia	AU6	Valgejõgi	2	mixed	1.74	2023	0.34	1.69	1		From Kotka dam to Nõmmeveski bridge					
+Estonia	AU6	Valgejõgi	2	mixed	1.74	2024	16.65	0.39	1		From Kotka dam to Nõmmeveski bridge					
+Estonia	AU6	Valgejõgi	2	mixed	1.74	2025	7.23	9.59	1		From Kotka dam to Nõmmeveski bridge					
+Estonia	AU6	Valgejõgi	3	mixed	14.02	2016	0	0	1		Upstream from Nõmmeveski bridge 					
+Estonia	AU6	Valgejõgi	3	mixed	14.02	2017	0	0	2		Upstream from Nõmmeveski bridge 					
+Estonia	AU6	Valgejõgi	3	mixed	14.02	2018	0	0	4		Upstream from Nõmmeveski bridge 					
+Estonia	AU6	Valgejõgi	3	mixed	14.02	2019	0	0	2		Upstream from Nõmmeveski bridge 					
+Estonia	AU6	Valgejõgi	3	mixed	14.02	2020	0	0	2		Upstream from Nõmmeveski bridge 					
+Estonia	AU6	Valgejõgi	3	mixed	14.02	2021	1.05	0	2		Upstream from Nõmmeveski bridge 					
+Estonia	AU6	Valgejõgi	3	mixed	14.02	2022	0	0.53	2		Upstream from Nõmmeveski bridge 					
+Estonia	AU6	Valgejõgi	3	mixed	14.02	2023	0	0.25	2		Upstream from Nõmmeveski bridge 					
+Estonia	AU6	Valgejõgi	3	mixed	14.02	2024	0	0	2		Upstream from Nõmmeveski bridge 					
+Estonia	AU6	Valgejõgi	3	mixed	14.02	2025	0	0	2		Upstream from Nõmmeveski bridge 					
+Estonia	AU6	Loobu	1	mixed	10	1975	13.83043239	0	1		Up to Joaveski falls	87.6		260	9	17
+Estonia	AU6	Loobu	1	mixed	10	1976	0	17.33193656	1		Up to Joaveski falls			233	8	20
+Estonia	AU6	Loobu	1	mixed	10	1983	0	2.244723303	1		Up to Joaveski falls			256	9	13
+Estonia	AU6	Loobu	1	mixed	10	1990	0	5.35972703	1		Up to Joaveski falls			228	8	16
+Estonia	AU6	Loobu	1	mixed	10	1995	2.906386212	0.741710997	2		Up to Joaveski falls	84.4		229	8	17
+Estonia	AU6	Loobu	1	mixed	10	1996	0	1.886924414	3		Up to Joaveski falls			256	9	12
+Estonia	AU6	Loobu	1	mixed	10	1997	0	0	1		Up to Joaveski falls			248	9	5
+Estonia	AU6	Loobu	1	mixed	10	1998	0.197815079	0	2		Up to Joaveski falls	65		209	7	28
+Estonia	AU6	Loobu	1	mixed	10	1999	7.937112558	0.659106135	4		Up to Joaveski falls			266	8 and 10	  25 and 22
+Estonia	AU6	Loobu	1	mixed	10	2000	0.486410574	0.736885086	4		Up to Joaveski falls	92.1		227	8	14
+Estonia	AU6	Loobu	1	mixed	10	2001	0	0.28956131	4		Up to Joaveski falls			254	9	11
+Estonia	AU6	Loobu	1	mixed	10	2002	0.163314822	0.086880338	3		Up to Joaveski falls	206		268	9	25
+Estonia	AU6	Loobu	1	mixed	10	2003	0	2.3690943	4		Up to Joaveski falls			227	8	15
+Estonia	AU6	Loobu	1	mixed	10	2004	1.459892808	4.216572906	4		Up to Joaveski falls	88.5		267	9	23
+Estonia	AU6	Loobu	1	mixed	10	2005	3.03369191	7.808267252	4		Up to Joaveski falls	83.8		234.3333333	8 and 9	16, 19 and 1
+Estonia	AU6	Loobu	1	mixed	10	2006	0.782498204	1.709652673	4		Up to Joaveski falls	92.4		248	9	5
+Estonia	AU6	Loobu	1	mixed	10	2007	3.107475029	0	4		Up to Joaveski falls	91.8		243.5	8 and 9	31 and 1
+Estonia	AU6	Loobu	1	mixed	10	2008	17.74302977	0.197238659	4		Up to Joaveski falls	78.6	4.6	269	9	25
+Estonia	AU6	Loobu	1	mixed	10	2009	26.78155027	15.0013477	4		Up to Joaveski falls	77.3	4.9	266	9	7 and 14
+Estonia	AU6	Loobu	1	mixed	10	2010	57.05369169	6.367550441	4		Up to Joaveski falls	71.1	3.8	266	8 and 9	31 and 7
+Estonia	AU6	Loobu	1	mixed	10	2011	0.426813372	5.057660666	4		Up to Joaveski falls	84.3	5.9	242	8	30
+Estonia	AU6	Loobu	1	mixed	10	2012	28.63012722	3.92380088	4		Up to Joaveski falls	78.4	4.7	244	8 and 9	26 and 5
+Estonia	AU6	Loobu	1	mixed	10	2013	64.49118113	5.023436376	4		Up to Joaveski falls	74.4	4.4	235.5	8 and 9	12 and 4
+Estonia	AU6	Loobu	1	mixed	10	2014	1.758717903	16.58798111	4		Up to Joaveski falls	85.4	6.3	252	9	9
+Estonia	AU6	Loobu	1	mixed	10	2015	37.55354535	1.204483974	4		Up to Joaveski falls	78.1	4.7	246	8 and 9	29 and 8
+Estonia	AU6	Loobu	1	mixed	10	2016	4.324181938	9.016624514	4		Up to Joaveski falls	72.2	3.3	256	9	12.33333333
+Estonia	AU6	Loobu	1	mixed	10	2017	36.28491976	0.910490677	4		Up to Joaveski falls	71.6	3.8	238	8	26.5
+Estonia	AU6	Loobu	1	mixed	10	2018	64.03005694	10.17967167	4		Up to Joaveski falls	70.0	3.6	240	8	28
+Estonia	AU6	Loobu	1	mixed	10	2019	52.70660866	9.453245995	4		Up to Joaveski falls	77.2	4.4	240.5	8 and 9	22 and 4
+Estonia	AU6	Loobu	1	mixed	10	2020	72.73130222	9.873311544	4		Up to Joaveski falls	76.4	4.7	248	9	4
+Estonia	AU6	Loobu	1	mixed	10	2021	7.512049203	17.33908589	4		Up to Joaveski falls	75.5	4.4	226	8	14.5
+Estonia	AU6	Loobu	1	mixed	10	2022	71.90678145	1.593031429	4		Up to Joaveski falls	80.3	5.2	234.5	8 and 9	8 and 6
+Estonia	AU6	Loobu	1	mixed	10	2023	41.31481026	7.025161567	4		Up to Joaveski falls	77.2	4.7	220	8	8
+Estonia	AU6	Loobu	1	mixed	10	2024	116.594167	9.728748327	4		Up to Joaveski falls	71.8	3.9	220	8	7.5
+Estonia	AU6	Loobu	1	mixed	10	2025	46.02681728	42.81878623	4		Up to Joaveski falls	64.6	2.8	227	8	15
+Estonia	AU6	Selja	1	mixed	11.3	1978	0	0	1					231	8	19
+Estonia	AU6	Selja	1	mixed	11.3	1995	1.65	7.69	1			100.7		257	9	14
+Estonia	AU6	Selja	1	mixed	11.3	1996	0.00	0.51	1					227	8	14
+Estonia	AU6	Selja	1	mixed	11.3	1997	0.00	0.00	1					232	8	20
+Estonia	AU6	Selja	1	mixed	11.3	1998	0.00	0.00	1					237	8	25
+Estonia	AU6	Selja	1	mixed	11.3	1999	0.04	2.27	4			40		265	9	22
+Estonia	AU6	Selja	1	mixed	11.3	2000	1.48	0.35	2			99.5		228	8	15
+Estonia	AU6	Selja	1	mixed	11.3	2002	0.00	0.00	2					256	9	13
+Estonia	AU6	Selja	1	mixed	11.3	2003	0.00	0.09	2					239	8	27
+Estonia	AU6	Selja	1	mixed	11.3	2004	0.00	0.94	2					257	9	13
+Estonia	AU6	Selja	1	mixed	11.3	2005	5.16	2.12	4			103.0		239	8	27
+Estonia	AU6	Selja	1	mixed	11.3	2006	0.92	0.23	3			99.3		247	9	4
+Estonia	AU6	Selja	1	mixed	11.3	2007	0.29	0.14	4			121.0		244	9	1
+Estonia	AU6	Selja	1	mixed	11.3	2008	19.28	5.09	3			93.3	7.7	270	9	26
+Estonia	AU6	Selja	1	mixed	11.3	2009	19.77	4.88	4			93.9	8.4	251	9	8
+Estonia	AU6	Selja	1	mixed	11.3	2010	9.28	1.42	4			87.3	7.6	244	8 and 9	
+Estonia	AU6	Selja	1	mixed	11.3	2011	1.90	1.04	4			80.3	5.0	243	8	31
+Estonia	AU6	Selja	1	mixed	11.3	2012	22.81	3.37	4			78.2	4.9	245	8 and 9	
+Estonia	AU6	Selja	1	mixed	11.3	2013	38.21	3.96	4			81.0	5.1	251	9	8
+Estonia	AU6	Selja	1	mixed	11.3	2014	14.59	4.35	3			102.4	10.7	253	9	10
+Estonia	AU6	Selja	1	mixed	11.3	2015	37.79	0.71	3			101.4	10.6	245.5	8 and 9	27 anf 9
+Estonia	AU6	Selja	1	mixed	11.3	2016	1.89	0.65	3			104.2	10.4	257	9	13
+Estonia	AU6	Selja	1	mixed	11.3	2017	131.16	0.49	3			79.2	5.2	241.6666667	8 and 9	22, 23 and 13
+Estonia	AU6	Selja	1	mixed	11.3	2018	122.48	6.05	3			71.9	3.8	241	8	29.5
+Estonia	AU6	Selja	1	mixed	11.3	2019	66.38	2.80	3			88.1	6.8	215	8.996845426	3.5
+Estonia	AU6	Selja	1	mixed	11.3	2020	54.89	2.05	3			88.3	6.8	254	9	10
+Estonia	AU6	Selja	1	mixed	11.3	2021	51.80	2.05	3			80.4	5.3	239	8	27
+Estonia	AU6	Selja	1	mixed	11.3	2022	40.28	2.93	3			88.4	11.9	248	9	5
+Estonia	AU6	Selja	1	mixed	11.3	2023	45.29	2.10	3			87.2	6.8	224	8	12
+Estonia	AU6	Selja	1	mixed	11.3	2024	162.82	1.69	3			74.8	4.2	232	8	19
+Estonia	AU6	Selja	1	mixed	11.3	2025	91.20	13.45	3			71.6	3.7	226	8	14
+Estonia	AU6	Kunda	1	wild	2.3	1982	0.55	0.00	1		Up to the first dam	92.00		238	8	26
+Estonia	AU6	Kunda	1	wild	2.3	1983	8.91	0.24	1		Up to the first dam	94.92		250	9	7
+Estonia	AU6	Kunda	1	wild	2.3	1992	8.27	7.70	1		Up to the first dam	82.95		252	9	8
+Estonia	AU6	Kunda	1	wild	2.3	1993	0.00	5.29	1		Up to the first dam			231	8	19
+Estonia	AU6	Kunda	1	wild	2.3	1994	3.10	0.00	1		Up to the first dam	75.29		230	8	18
+Estonia	AU6	Kunda	1	wild	2.3	1995	19.54	3.64	1		Up to the first dam	75.82		228	8	16
+Estonia	AU6	Kunda	1	wild	2.3	1996	28.60	16.16	1		Up to the first dam	72.13		226	8	13
+Estonia	AU6	Kunda	1	wild	2.3	1997	1.87	25.38	1		Up to the first dam	80.60		231	8	19
+Estonia	AU6	Kunda	1	wild	2.3	1998	17.50	1.04	1		Up to the first dam	70.57		223	8	11
+Estonia	AU6	Kunda	1	wild	2.3	1999	8.16	21.39	1		Up to the first dam	74.15		223	8	11
+Estonia	AU6	Kunda	1	wild	2.3	2000	26.38	8.93	1		Up to the first dam	79.04		229	8	16
+Estonia	AU6	Kunda	1	wild	2.3	2001	38.42	17.38	1		Up to the first dam	73.08	3.10	256	9	13
+Estonia	AU6	Kunda	1	wild	2.3	2002	17.01	5.87	1		Up to the first dam	72.93		266	9	23
+Estonia	AU6	Kunda	1	wild	2.3	2003	0.84	4.31	1		Up to the first dam	76.00		238	8	26
+Estonia	AU6	Kunda	1	wild	2.3	2004	30.12	0.41	1		Up to the first dam	68.87	3.08	246	9	2
+Estonia	AU6	Kunda	1	wild	2.3	2005	4.99	13.78	1		Up to the first dam	80.60		242	8	30
+Estonia	AU6	Kunda	1	wild	2.3	2006	27.24	14.61	2		Up to the first dam	80.40		243	8	31
+Estonia	AU6	Kunda	1	wild	2.3	2007	5.53	5.85	3		Up to the first dam	84.81		246	9	3
+Estonia	AU6	Kunda	1	wild	2.3	2008	5.53	0.44	1		Up to the first dam	80.50	4.54	270	9	26
+Estonia	AU6	Kunda	1	wild	2.3	2009	46.54	0.83	1		Up to the first dam	74.58	3.73	251	9	8
+Estonia	AU6	Kunda	1	wild	2.3	2010	2.48	1.24	1		Up to the first dam	81.17	5.63	242	8	30
+Estonia	AU6	Kunda	1	wild	2.3	2011	16.63	14.62	1		Up to the first dam	84.77	5.70	243	8	31
+Estonia	AU6	Kunda	1	wild	2.3	2012	12.13	13.77	1		Up to the first dam	93.58	7.66	251	9	7
+Estonia	AU6	Kunda	1	wild	2.3	2013	13.50	6.49	3		Up to the first dam	95.83	8.18	256	9	13
+Estonia	AU6	Kunda	1	wild	2.3	2014	28.95	8.91	1		Up to the first dam	82.78	5.37	253	9	10
+Estonia	AU6	Kunda	1	wild	2.3	2015	105.81	14.09	1		Up to the first dam	69.95	3.18	252	9	9
+Estonia	AU6	Kunda	1	wild	2.3	2016	177.21	25.46	1		Up to the first dam	64.76	2.46	257	9	13
+Estonia	AU6	Kunda	1	wild	2.3	2017	139.59	20.21	1		Up to the first dam	62.94	2.33	236	8	24
+Estonia	AU6	Kunda	1	wild	2.3	2018	268.48	29.89	1		Up to the first dam	59.10	2.06	242	8	30
+Estonia	AU6	Kunda	1	wild	2.3	2019	246.85	15.76	1		Up to the first dam	56.49	1.64	246	9	3
+Estonia	AU6	Kunda	1	wild	2.3	2020	140.07	37.75	1		Up to the first dam	58.80	1.86	253	9	9
+Estonia	AU6	Kunda	1	wild	2.3	2021	181.17	34.29	1		Up to the first dam	59.65	1.96	239	8	27
+Estonia	AU6	Kunda	1	wild	2.3	2022	192.80	50.10	1		Up to the first dam	59.82	2.02	248	9	5
+Estonia	AU6	Kunda	1	wild	2.3	2023	231.56	32.90	1		Up to the first dam	60.12	2.12	226	8	14
+Estonia	AU6	Kunda	1	wild	2.3	2024	241.75	64.50	1		Up to the first dam	61.88	2.29	232	8	19
+Estonia	AU6	Kunda	1	wild	2.3	2025	84.66	26.70	1		Up to the first dam	63.33	2.40	248	9	5
+Estonia	AU6	Purtse	1	mixed	7.9	1993	0	0	1		Up to the Sillaoru HEP					
+Estonia	AU6	Purtse	1	mixed	7.9	1996	0	0	1		Up to the Sillaoru HEP					
+Estonia	AU6	Purtse	1	mixed	7.9	2001	0	0	1		Up to the Sillaoru HEP					
+Estonia	AU6	Purtse	1	mixed	7.9	2004	0	0	2		Up to the Sillaoru HEP					
+Estonia	AU6	Purtse	1	mixed	7.9	2005	0	0	2		Up to the Sillaoru HEP					
+Estonia	AU6	Purtse	1	mixed	7.9	2006	3.46	1.14	2		Up to the Sillaoru HEP					
+Estonia	AU6	Purtse	1	mixed	7.9	2007	12.47	0.21	2		Up to the Sillaoru HEP					
+Estonia	AU6	Purtse	1	mixed	7.9	2008	0.58	4.92	2		Up to the Sillaoru HEP					
+Estonia	AU6	Purtse	1	mixed	7.9	2009	1.84	4.07	2		Up to the Sillaoru HEP					
+Estonia	AU6	Purtse	1	mixed	7.9	2010	0.07	0.70	2		Up to the Sillaoru HEP					
+Estonia	AU6	Purtse	1	mixed	7.9	2011	0.00	2.15	3		Up to the Sillaoru HEP					
+Estonia	AU6	Purtse	1	mixed	7.9	2012	36.32	0.00	3		Up to the Sillaoru HEP					
+Estonia	AU6	Purtse	1	mixed	7.9	2013	15.25	8.37	3		Up to the Sillaoru HEP					
+Estonia	AU6	Purtse	1	mixed	7.9	2014	36.62	5.75	3		Up to the Sillaoru HEP					
+Estonia	AU6	Purtse	1	mixed	7.9	2015	8.35	4.02	3		Up to the Sillaoru HEP					
+Estonia	AU6	Purtse	1	mixed	7.9	2016	3.72	2.48	3		Up to the Sillaoru HEP					
+Estonia	AU6	Purtse	1	mixed	7.9	2017	43.95	1.75	3		Up to the Sillaoru HEP					
+Estonia	AU6	Purtse	1	mixed	7.9	2018	76.23	7.47	3		Up to the Sillaoru HEP					
+Estonia	AU6	Purtse	1	mixed	7.9	2019	25.53	6.82	3		Up to the Sillaoru HEP					
+Estonia	AU6	Purtse	1	mixed	7.9	2020	48.01	3.80	4		Up to the Sillaoru HEP					
+Estonia	AU6	Purtse	1	mixed	7.9	2021	28.08	8.59	3		Up to the Sillaoru HEP					
+Estonia	AU6	Purtse	1	mixed	7.9	2022	22.13	2.91	3		Up to the Sillaoru HEP					
+Estonia	AU6	Purtse	1	mixed	7.9	2023	61.77	3.11	3		Up to the Sillaoru HEP					
+Estonia	AU6	Purtse	1	mixed	7.9	2024	49.38	7.39	3		Up to the Sillaoru HEP					
+Estonia	AU6	Purtse	1	mixed	7.9	2025	23.38	4.34	3		Up to the Sillaoru HEP					
+Estonia	AU6	Purtse	2	mixed	6.5	2015	0	0	1		Upstream fom Sillaoru HEP					
+Estonia	AU6	Purtse	2	mixed	6.5	2020	4.82	1.41	3		Upstream fom Sillaoru HEP					
+Estonia	AU6	Purtse	2	mixed	6.5	2021	0.48	0.39	2		Upstream fom Sillaoru HEP					
+Latvia	AU5	Salaca	1	wild	47	1995	12.3	1.8	4							
+Latvia	AU5	Salaca	1	wild	47	1996	51.2	0.1	6			61.9				
+Latvia	AU5	Salaca	1	wild	47	1997	39.0	1.6	4			61.0				
+Latvia	AU5	Salaca	1	wild	47	1998	52.1	1.2	7			58.0				
+Latvia	AU5	Salaca	1	wild	47	1999	42.3	1.7	7			56.7				
+Latvia	AU5	Salaca	1	wild	47	2000	23.5	0.9	7			61.7				
+Latvia	AU5	Salaca	1	wild	47	2001	36.3	2.5	8			59.0				
+Latvia	AU5	Salaca	1	wild	47	2002	25.8	5.4	8			62.1				
+Latvia	AU5	Salaca	1	wild	47	2003	17.7	0.1	8			59.6				
+Latvia	AU5	Salaca	1	wild	47	2004	61.6	1.6	9			60.2				
+Latvia	AU5	Salaca	1	wild	47	2005	90.0	2.9	9			58.7				
+Latvia	AU5	Salaca	1	wild	47	2006	36.8	7.3	9			57.6				
+Latvia	AU5	Salaca	1	wild	47	2007	43.2	4.7	9			59.8				
+Latvia	AU5	Salaca	1	wild	47	2008	77.6	3.3	9			57.0				
+Latvia	AU5	Salaca	1	wild	47	2009	48.4	5.9	9			59.3				
+Latvia	AU5	Salaca	1	wild	47	2010	13.4	4.4	9			55.8				
+Latvia	AU5	Salaca	1	wild	47	2011	28.3	1.2	8			56.7				
+Latvia	AU5	Salaca	1	wild	47	2012	47.0	1.5	10			58.0				
+Latvia	AU5	Salaca	1	wild	47	2013	27.7	5.4	10			58.0				
+Latvia	AU5	Salaca	1	wild	47	2014	59.9	4.3	10			59.9				
+Latvia	AU5	Salaca	1	wild	47	2015	90.0	4.0	10			59.8				
+Latvia	AU5	Salaca	1	wild	47	2016	35.2	3.3	10			59.9				
+Latvia	AU5	Salaca	1	wild	47	2017	59.4	3.7	10			57.5				
+Latvia	AU5	Salaca	1	wild	47	2018	24.9	4.0	10			58.9				
+Latvia	AU5	Salaca	1	wild	47	2019	60.3	0.9	11			56.8				
+Latvia	AU5	Salaca	1	wild	47	2020	82.3	1.5	10			57.9				
+Latvia	AU5	Salaca	1	wild	47	2021	44.0	6.7	11			53.5				
+Latvia	AU5	Salaca	1	wild	47	2022	71.3	2.2	11			57.1				
+Latvia	AU5	Salaca	1	wild	47	2023	53.2	1.4	11			59.2				
+Latvia	AU5	Salaca	1	wild	47	2024	99.8	1.2	11			58.6				
+Latvia	AU5	Salaca	1	wild	47	2025	41.7	2.9	11			60.9				
+Latvia	AU5	Vitrupe	1	wild	3.1	2006	21.3	0	1			56.3				
+Latvia	AU5	Vitrupe	1	wild	3.1	2007	0	0	1							
+Latvia	AU5	Vitrupe	1	wild	3.1	2008	20.4	0	1			60.0				
+Latvia	AU5	Vitrupe	1	wild	3.1	2009	0.7	7.5	1							
+Latvia	AU5	Vitrupe	1	wild	3.1	2012	5.7	5.7	1							
+Latvia	AU5	Vitrupe	1	wild	3.1	2013	3.0	2.4	1			63.2				
+Latvia	AU5	Vitrupe	1	wild	3.1	2014	16.5	0.8	1			64.0				
+Latvia	AU5	Vitrupe	1	wild	3.1	2015	42.3	0.8	1			62.2				
+Latvia	AU5	Vitrupe	1	wild	3.1	2016	1.3	3.2	1							
+Latvia	AU5	Vitrupe	1	wild	3.1	2017	0	1.5	1							
+Latvia	AU5	Vitrupe	1	wild	3.1	2018	5.2	0	1			59.5				
+Latvia	AU5	Vitrupe	1	wild	3.1	2019	1.5	0.4	1							
+Latvia	AU5	Vitrupe	1	wild	3.1	2020	104.2	0	1			62.5				
+Latvia	AU5	Vitrupe	1	wild	3.1	2021	93.5	6.9	1			57.9				
+Latvia	AU5	Vitrupe	1	wild	3.1	2022	1.3	11.4	1			57.4				
+Latvia	AU5	Vitrupe	1	wild	3.1	2023	0	0	1							
+Latvia	AU5	Vitrupe	1	wild	3.1	2024	7.4	0	1			61.9				
+Latvia	AU5	Vitrupe	1	wild	3.1	2025	19.1	5.0	4			58.0				
+Latvia	AU5	Pēterupe	1	wild	3	2008	0	0	2							
+Latvia	AU5	Pēterupe	1	wild	3	2011	4.1	0	2							
+Latvia	AU5	Pēterupe	1	wild	3	2012	0	0.1	2							
+Latvia	AU5	Pēterupe	1	wild	3	2013	0	0	2							
+Latvia	AU5	Pēterupe	1	wild	3	2014	48.4	0	2			59.0				
+Latvia	AU5	Pēterupe	1	wild	3	2015	0.6	8.3	2							
+Latvia	AU5	Pēterupe	1	wild	3	2016	0	0	2							
+Latvia	AU5	Pēterupe	1	wild	3	2017	0.3	0	2							
+Latvia	AU5	Pēterupe	1	wild	3	2018	16.6	0	2			61.4				
+Latvia	AU5	Pēterupe	1	wild	3	2019	0	2.7	2							
+Latvia	AU5	Pēterupe	1	wild	3	2020	31.0	0	2			63.5				
+Latvia	AU5	Pēterupe	1	wild	3	2021	0	4.3	2							
+Latvia	AU5	Pēterupe	1	wild	3	2022	14.7	0.3	2			60.9				
+Latvia	AU5	Pēterupe	1	wild	3	2023	0	1.8	2							
+Latvia	AU5	Pēterupe	1	wild	3	2024	0	0.2	2							
+Latvia	AU5	Pēterupe	1	wild	3	2025	2.8	0.8	2			61.7				
+Latvia	AU5	Irbe	1	wild	0.2	2013	0	0	1							
+Latvia	AU5	Irbe	1	wild	0.2	2014	2.4	0	1							
+Latvia	AU5	Irbe	1	wild	0.2	2015	0.7	0	1							
+Latvia	AU5	Irbe	1	wild	0.2	2016	0	0	1							
+Latvia	AU5	Irbe	1	wild	0.2	2017	0	0	1							
+Latvia	AU5	Irbe	1	wild	0.2	2018	0	0	1							
+Latvia	AU5	Irbe	1	wild	0.2	2019	8.3	0	3							
+Latvia	AU5	Irbe	1	wild	0.2	2020	2.8	0	3							
+Latvia	AU5	Irbe	1	wild	0.2	2021	0.2	0	3							
+Latvia	AU5	Irbe	1	wild	0.2	2022	0.5	0	3							
+Latvia	AU5	Irbe	1	wild	0.2	2023	1.4	0	3							
+Latvia	AU5	Irbe	1	wild	0.2	2024	1.5	0	3							
+Latvia	AU5	Irbe	1	wild	0.2	2025	0.6	0.2	3							
+Latvia	AU5	Užava	1	wild	0.6	2008	36.5	0	1							
+Latvia	AU5	Užava	1	wild	0.6	2009	8.8	0	1							
+Latvia	AU5	Užava	1	wild	0.6	2013	0	0	1							
+Latvia	AU5	Užava	1	wild	0.6	2014	13.5	0	1							
+Latvia	AU5	Užava	1	wild	0.6	2016	0	0	2							
+Latvia	AU5	Užava	1	wild	0.6	2017	0.7	0	2							
+Latvia	AU5	Užava	1	wild	0.6	2018	0	0	2							
+Latvia	AU5	Užava	1	wild	0.6	2019	0	0	2							
+Latvia	AU5	Užava	1	wild	0.6	2020	2.0	0	2							
+Latvia	AU5	Užava	1	wild	0.6	2021	4.0	0	2							
+Latvia	AU5	Užava	1	wild	0.6	2022	0	0	2							
+Latvia	AU5	Užava	1	wild	0.6	2023	4.1	0	1							
+Latvia	AU5	Užava	1	wild	0.6	2024	4.4	0	1							
+Latvia	AU5	Užava	1	wild	0.6	2025	2.6	0	1							
+Latvia	AU5	Saka	1	wild	2.4	2006	0	0	1							
+Latvia	AU5	Saka	1	wild	2.4	2007	0.7	0	1							
+Latvia	AU5	Saka	1	wild	2.4	2008	23.3	0	1							
+Latvia	AU5	Saka	1	wild	2.4	2009	16.8	0	1							
+Latvia	AU5	Saka	1	wild	2.4	2010	0	0	1							
+Latvia	AU5	Saka	1	wild	2.4	2013	0.3	0	1							
+Latvia	AU5	Saka	1	wild	2.4	2014	3.5	0	1							
+Latvia	AU5	Saka	1	wild	2.4	2015	0.6	0	1							
+Latvia	AU5	Saka	1	wild	2.4	2016	1.0	0	1							
+Latvia	AU5	Saka	1	wild	2.4	2017	0	0	1							
+Latvia	AU5	Saka	1	wild	2.4	2018	0.5	0	1							
+Latvia	AU5	Saka	1	wild	2.4	2019	0	0	1							
+Latvia	AU5	Saka	1	wild	2.4	2020	14.6	4.5	1							
+Latvia	AU5	Saka	1	wild	2.4	2021	0.7	0	1							
+Latvia	AU5	Saka	1	wild	2.4	2022	24.5	0.1	1							
+Latvia	AU5	Saka	1	wild	2.4	2023	28.4	0.2	2							
+Latvia	AU5	Saka	1	wild	2.4	2024	4.7	0.4	2							
+Latvia	AU5	Saka	1	wild	2.4	2025	0	0.4	2							
+Latvia	AU5	Aģe	1	potential	1.2	2011	13.6	0	1							
+Latvia	AU5	Aģe	1	potential	1.2	2012	3.5	1.2	1							
+Latvia	AU5	Aģe	1	potential	1.2	2013	1.8	1.8	1							
+Latvia	AU5	Aģe	1	potential	1.2	2014	0	0	1							
+Latvia	AU5	Aģe	1	potential	1.2	2015	49.6	12.1	1							
+Latvia	AU5	Aģe	1	potential	1.2	2016	1.7	11.9	1							
+Latvia	AU5	Aģe	1	potential	1.2	2017	14.1	2.0	1							
+Latvia	AU5	Aģe	1	potential	1.2	2018	45	3.2	1							
+Latvia	AU5	Aģe	1	potential	1.2	2019	39.4	5.5	1							
+Latvia	AU5	Aģe	1	potential	1.2	2020	148.1	11.4	1							
+Latvia	AU5	Aģe	1	potential	1.2	2021	97.2	14.4	1							
+Latvia	AU5	Aģe	1	potential	1.2	2022	173.6	9.9	1							
+Latvia	AU5	Aģe	1	potential	1.2	2023	71.1	5.1	4							
+Latvia	AU5	Aģe	1	potential	1.2	2024	36.6	8.4	4							
+Latvia	AU5	Aģe	1	potential	1.2	2025	103.8	13.3	4							
+Lithuania	AU5	Saria	1	wild	NA	2000	2.5	0	1							
+Lithuania	AU5	Saria	1	wild	NA	2001	0.7	0	1							
+Lithuania	AU5	Saria	1	wild	NA	2002	0	0	1							
+Lithuania	AU5	Saria	1	wild	NA	2003	0.4	0	1							
+Lithuania	AU5	Saria	1	wild	NA	2004	3	0	1							
+Lithuania	AU5	Saria	1	wild	NA	2005	0	0.4	1							
+Lithuania	AU5	Saria	1	wild	NA	2006	NA	NA	0							
+Lithuania	AU5	Saria	1	wild	NA	2007	0	0	1							
+Lithuania	AU5	Saria	1	wild	NA	2008	NA	NA	0							
+Lithuania	AU5	Saria	1	wild	NA	2009	1.96	0	1							
+Lithuania	AU5	Saria	1	wild	NA	2010	NA	NA	0							
+Lithuania	AU5	Saria	1	wild	NA	2011	NA	NA	0							
+Lithuania	AU5	Saria	1	wild	NA	2012	0.8	0	2							
+Lithuania	AU5	Saria	1	wild	NA	2013	NA	NA	0							
+Lithuania	AU5	Saria	1	wild	NA	2014	NA	NA	0							
+Lithuania	AU5	Saria	1	wild	NA	2015	1.05	0.15	2							
+Lithuania	AU5	Saria	1	wild	NA	2016	NA	NA	0							
+Lithuania	AU5	Saria	1	wild	NA	2017	NA	NA	0							
+Lithuania	AU5	Saria	1	wild	NA	2018	0.55	0.55	1							
+Lithuania	AU5	Saria	1	wild	NA	2019	0	0	1							
+Lithuania	AU5	Saria	1	wild	NA	2020	NA	NA	0							
+Lithuania	AU5	Saria	1	wild	NA	2021	3.3	0	1							
+Lithuania	AU5	Saria	1	wild	NA	2022	2.2	0.1	2							
+Lithuania	AU5	Saria	1	wild	NA	2023	NA	NA	0							
+Lithuania	AU5	Saria	1	wild	NA	2024	0	1.7	1							
+Lithuania	AU5	Saria	1	wild	NA	2025	0	0	1							
+Lithuania	AU5	Mera	1	wild	3	2000	0.13	0	3							
+Lithuania	AU5	Mera	1	wild	3	2001	0.27	0	3							
+Lithuania	AU5	Mera	1	wild	3	2002	0.08	0	3							
+Lithuania	AU5	Mera	1	wild	3	2003	0	0	4							
+Lithuania	AU5	Mera	1	wild	3	2004	0	0	4							
+Lithuania	AU5	Mera	1	wild	3	2005	0	0	3							
+Lithuania	AU5	Mera	1	wild	3	2006	0	0.05	2							
+Lithuania	AU5	Mera	1	wild	3	2007	0.22	0.22	2							
+Lithuania	AU5	Mera	1	wild	3	2008	0	0.5	2							
+Lithuania	AU5	Mera	1	wild	3	2009	0	0.25	2							
+Lithuania	AU5	Mera	1	wild	3	2010	0	0	3							
+Lithuania	AU5	Mera	1	wild	3	2011	0	0.05	3							
+Lithuania	AU5	Mera	1	wild	3	2012	0	0	3							
+Lithuania	AU5	Mera	1	wild	3	2013	0.08	0	3							
+Lithuania	AU5	Mera	1	wild	3	2014	0	0.3	3							
+Lithuania	AU5	Mera	1	wild	3	2015	0	0	4							
+Lithuania	AU5	Mera	1	wild	3	2016	0	0.17	3							
+Lithuania	AU5	Mera	1	wild	3	2017	0	0	3							
+Lithuania	AU5	Mera	1	wild	3	2018	0.17	0.08	4							
+Lithuania	AU5	Mera	1	wild	3	2019	0.17	0.1	3							
+Lithuania	AU5	Mera	1	wild	3	2020	0.45	0.21	3							
+Lithuania	AU5	Mera	1	wild	3	2021	0.17	0.08	3							
+Lithuania	AU5	Mera	1	wild	3	2022	0.17	0.28	3							
+Lithuania	AU5	Mera	1	wild	3	2023	0.84	0	3							
+Lithuania	AU5	Mera	1	wild	3	2024	0	0.71	3							
+Lithuania	AU5	Mera	1	wild	3	2025	0.17	0	3							
+Lithuania	AU5	Zeimena	1	wild	15	2000	4.1	0.46	7							
+Lithuania	AU5	Zeimena	1	wild	15	2001	1.4	0.1	7							
+Lithuania	AU5	Zeimena	1	wild	15	2002	0.66	0	6							
+Lithuania	AU5	Zeimena	1	wild	15	2003	0.72	0	6							
+Lithuania	AU5	Zeimena	1	wild	15	2004	3.1	0.3	6							
+Lithuania	AU5	Zeimena	1	wild	15	2005	1.33	0.47	5							
+Lithuania	AU5	Zeimena	1	wild	15	2006	2.52	0.06	5							
+Lithuania	AU5	Zeimena	1	wild	15	2007	4.2	0.8	5							
+Lithuania	AU5	Zeimena	1	wild	15	2008	2.8	0.08	7							
+Lithuania	AU5	Zeimena	1	wild	15	2009	3.5	0.4	7							
+Lithuania	AU5	Zeimena	1	wild	15	2010	0.2	0	7							
+Lithuania	AU5	Zeimena	1	wild	15	2011	5.7	1.2	5							
+Lithuania	AU5	Zeimena	1	wild	15	2012	1.4	0.6	5							
+Lithuania	AU5	Zeimena	1	wild	15	2013	2.37	0.3	6							
+Lithuania	AU5	Zeimena	1	wild	15	2014	2.9	0.9	6							
+Lithuania	AU5	Zeimena	1	wild	15	2015	9.2	0	6							
+Lithuania	AU5	Zeimena	1	wild	15	2016	3.3	0.4	6							
+Lithuania	AU5	Zeimena	1	wild	15	2017	2.8	0	6							
+Lithuania	AU5	Zeimena	1	wild	15	2018	6.2	2.5	6							
+Lithuania	AU5	Zeimena	1	wild	15	2019	8.18	0	6							
+Lithuania	AU5	Zeimena	1	wild	15	2020	11.7	0.1	6							
+Lithuania	AU5	Zeimena	1	wild	15	2021	6.1	0.16	6							
+Lithuania	AU5	Zeimena	1	wild	15	2022	17.92	3.05	6							
+Lithuania	AU5	Zeimena	1	wild	15	2023	10.7	0	6							
+Lithuania	AU5	Zeimena	1	wild	15	2024	4.24	0.33	6							
+Lithuania	AU5	Zeimena	1	wild	15	2025	4.4	0.11	6							
+Lithuania	AU5	Neris	1	mixed	48	2000	0.19	0.06	10							
+Lithuania	AU5	Neris	1	mixed	48	2001	2.51	0	10							
+Lithuania	AU5	Neris	1	mixed	48	2002	0.9	0	11							
+Lithuania	AU5	Neris	1	mixed	48	2003	0.27	0	11							
+Lithuania	AU5	Neris	1	mixed	48	2004	0.41	0.05	10							
+Lithuania	AU5	Neris	1	mixed	48	2005	0.1	0.03	9							
+Lithuania	AU5	Neris	1	mixed	48	2006	0.06	0.02	9							
+Lithuania	AU5	Neris	1	mixed	48	2007	1.68	0.36	9							
+Lithuania	AU5	Neris	1	mixed	48	2008	7.44	0.32	9							
+Lithuania	AU5	Neris	1	mixed	48	2009	7.31	0.27	9							
+Lithuania	AU5	Neris	1	mixed	48	2010	0.1	0.16	9							
+Lithuania	AU5	Neris	1	mixed	48	2011	1.19	0.16	10							
+Lithuania	AU5	Neris	1	mixed	48	2012	3.3	0.2	9							
+Lithuania	AU5	Neris	1	mixed	48	2013	0.56	0.02	10							
+Lithuania	AU5	Neris	1	mixed	48	2014	0.9	0.01	12							
+Lithuania	AU5	Neris	1	mixed	48	2015	4.6	0.15	11							
+Lithuania	AU5	Neris	1	mixed	48	2016	1.52	0.3	11							
+Lithuania	AU5	Neris	1	mixed	48	2017	3	0.2	11							
+Lithuania	AU5	Neris	1	mixed	48	2018	3.46	0.7	11							
+Lithuania	AU5	Neris	1	mixed	48	2019	12.95	0.03	11							
+Lithuania	AU5	Neris	1	mixed	48	2020	10.5	0.17	11							
+Lithuania	AU5	Neris	1	mixed	48	2021	3.9	0.89	11							
+Lithuania	AU5	Neris	1	mixed	48	2022	9.36	0.77	11							
+Lithuania	AU5	Neris	1	mixed	48	2023	6.67	0.32	11							
+Lithuania	AU5	Neris	1	mixed	48	2024	4.08	0.2	11							
+Lithuania	AU5	Neris	1	mixed	48	2025	2.87	0.2	11							
+Lithuania	AU5	Šventoji	1	mixed	3	2000	1.9	0	6							
+Lithuania	AU5	Šventoji	1	mixed	3	2001	0.25	0	6							
+Lithuania	AU5	Šventoji	1	mixed	3	2002	2	0.1	6							
+Lithuania	AU5	Šventoji	1	mixed	3	2003	0.1	0	6							
+Lithuania	AU5	Šventoji	1	mixed	3	2004	0.62	0.28	6							
+Lithuania	AU5	Šventoji	1	mixed	3	2005	0.5	0.46	4							
+Lithuania	AU5	Šventoji	1	mixed	3	2006	3.15	1.35	4							
+Lithuania	AU5	Šventoji	1	mixed	3	2007	4.8	0.1	4							
+Lithuania	AU5	Šventoji	1	mixed	3	2008	5.8	0.3	5							
+Lithuania	AU5	Šventoji	1	mixed	3	2009	6.1	1.4	5							
+Lithuania	AU5	Šventoji	1	mixed	3	2010	0.94	0.84	5							
+Lithuania	AU5	Šventoji	1	mixed	3	2011	6.3	2.3	5							
+Lithuania	AU5	Šventoji	1	mixed	3	2012	4	1.5	5							
+Lithuania	AU5	Šventoji	1	mixed	3	2013	4.8	0.8	5							
+Lithuania	AU5	Šventoji	1	mixed	3	2014	5.32	0.08	5							
+Lithuania	AU5	Šventoji	1	mixed	3	2015	8.23	2.7	5							
+Lithuania	AU5	Šventoji	1	mixed	3	2016	3.12	1.7	5							
+Lithuania	AU5	Šventoji	1	mixed	3	2017	0.54	0.1	5							
+Lithuania	AU5	Šventoji	1	mixed	3	2018	3.41	1.42	5							
+Lithuania	AU5	Šventoji	1	mixed	3	2019	10.73	0.9	6							
+Lithuania	AU5	Šventoji	1	mixed	3	2020	4.26	0.63	6							
+Lithuania	AU5	Šventoji	1	mixed	3	2021	4.9	0.65	6							
+Lithuania	AU5	Šventoji	1	mixed	3	2022	5.6	0.2	6							
+Lithuania	AU5	Šventoji	1	mixed	3	2023	17.11	1.39	6							
+Lithuania	AU5	Šventoji	1	mixed	3	2024	10.41	1.09	6							
+Lithuania	AU5	Šventoji	1	mixed	3	2025	14.24	0.37	6							
+Lithuania	AU5	Siesartis	1	mixed	12	2000	1.84	0	2							
+Lithuania	AU5	Siesartis	1	mixed	12	2001	3.35	0.35	2							
+Lithuania	AU5	Siesartis	1	mixed	12	2002	2.5	0	2							
+Lithuania	AU5	Siesartis	1	mixed	12	2003	0.45	0	2							
+Lithuania	AU5	Siesartis	1	mixed	12	2004	3.4	0	3							
+Lithuania	AU5	Siesartis	1	mixed	12	2005	7.3	3	2							
+Lithuania	AU5	Siesartis	1	mixed	12	2006	0.27	0.94	2							
+Lithuania	AU5	Siesartis	1	mixed	12	2007	6.3	1.2	2							
+Lithuania	AU5	Siesartis	1	mixed	12	2008	18.9	17.5	2							
+Lithuania	AU5	Siesartis	1	mixed	12	2009	44.1	4	2							
+Lithuania	AU5	Siesartis	1	mixed	12	2010	0.15	3.4	2							
+Lithuania	AU5	Siesartis	1	mixed	12	2011	6.8	1.9	3							
+Lithuania	AU5	Siesartis	1	mixed	12	2012	0.6	3.1	3							
+Lithuania	AU5	Siesartis	1	mixed	12	2013	5	1.3	3							
+Lithuania	AU5	Siesartis	1	mixed	12	2014	11.95	5.1	4							
+Lithuania	AU5	Siesartis	1	mixed	12	2015	6.2	2.3	4							
+Lithuania	AU5	Siesartis	1	mixed	12	2016	5.9	3.2	4							
+Lithuania	AU5	Siesartis	1	mixed	12	2017	3.1	1.8	4							
+Lithuania	AU5	Siesartis	1	mixed	12	2018	2.9	3.8	4							
+Lithuania	AU5	Siesartis	1	mixed	12	2019	26.63	1.73	4							
+Lithuania	AU5	Siesartis	1	mixed	12	2020	19.4	4.3	4							
+Lithuania	AU5	Siesartis	1	mixed	12	2021	7.4	8.5	4							
+Lithuania	AU5	Siesartis	1	mixed	12	2022	8.17	9.17	4							
+Lithuania	AU5	Siesartis	1	mixed	12	2023	21.56	1.5	4							
+Lithuania	AU5	Siesartis	1	mixed	12	2024	4	4.08	4							
+Lithuania	AU5	Siesartis	1	mixed	12	2025	7.7	1.12	4							
+Lithuania	AU5	Virinta	1	mixed	3	2003	0.95	0	2							
+Lithuania	AU5	Virinta	1	mixed	3	2004	0.17	0	2							
+Lithuania	AU5	Virinta	1	mixed	3	2005	0.55	0.49	2							
+Lithuania	AU5	Virinta	1	mixed	3	2006	0.14	0	2							
+Lithuania	AU5	Virinta	1	mixed	3	2007	0	0	2							
+Lithuania	AU5	Virinta	1	mixed	3	2008	0	0	2							
+Lithuania	AU5	Virinta	1	mixed	3	2009	6.8	3.6	2							
+Lithuania	AU5	Virinta	1	mixed	3	2010	NA	NA	0							
+Lithuania	AU5	Virinta	1	mixed	3	2011	13.7	0.38	2							
+Lithuania	AU5	Virinta	1	mixed	3	2012	0	0.5	2							
+Lithuania	AU5	Virinta	1	mixed	3	2013	2.4	0	2							
+Lithuania	AU5	Virinta	1	mixed	3	2014	5	0	2							
+Lithuania	AU5	Virinta	1	mixed	3	2015	1.5	0.9	2							
+Lithuania	AU5	Virinta	1	mixed	3	2016	3.7	1	2							
+Lithuania	AU5	Virinta	1	mixed	3	2017	0.35	0	2							
+Lithuania	AU5	Virinta	1	mixed	3	2018	6.3	1.9	2							
+Lithuania	AU5	Virinta	1	mixed	3	2019	1.37	0	2							
+Lithuania	AU5	Virinta	1	mixed	3	2020	2.17	2.33	2							
+Lithuania	AU5	Virinta	1	mixed	3	2021	2.15	2.25	2							
+Lithuania	AU5	Virinta	1	mixed	3	2022	2.65	3.15	2							
+Lithuania	AU5	Virinta	1	mixed	3	2023	3.25	1	2							
+Lithuania	AU5	Virinta	1	mixed	3	2024	1.83	2.21	2							
+Lithuania	AU5	Virinta	1	mixed	3	2025	2.65	1.43	2							
+Lithuania	AU5	Vilnia	1	mixed	7	2000	0	0	3							
+Lithuania	AU5	Vilnia	1	mixed	7	2001	0.7	0	3							
+Lithuania	AU5	Vilnia	1	mixed	7	2002	1.3	0	4							
+Lithuania	AU5	Vilnia	1	mixed	7	2003	0	0	3							
+Lithuania	AU5	Vilnia	1	mixed	7	2004	0.36	0.15	3							
+Lithuania	AU5	Vilnia	1	mixed	7	2005	4.48	0.13	3							
+Lithuania	AU5	Vilnia	1	mixed	7	2006	0.49	2.63	3							
+Lithuania	AU5	Vilnia	1	mixed	7	2007	0.58	0	3							
+Lithuania	AU5	Vilnia	1	mixed	7	2008	1.53	0.28	3							
+Lithuania	AU5	Vilnia	1	mixed	7	2009	3.1	2.14	3							
+Lithuania	AU5	Vilnia	1	mixed	7	2010	3.6	1	5							
+Lithuania	AU5	Vilnia	1	mixed	7	2011	3.3	1.6	3							
+Lithuania	AU5	Vilnia	1	mixed	7	2012	3.5	1	3							
+Lithuania	AU5	Vilnia	1	mixed	7	2013	3.7	1.7	3							
+Lithuania	AU5	Vilnia	1	mixed	7	2014	31.4	2.3	4							
+Lithuania	AU5	Vilnia	1	mixed	7	2015	8.8	3.75	4							
+Lithuania	AU5	Vilnia	1	mixed	7	2016	14.9	3.2	4							
+Lithuania	AU5	Vilnia	1	mixed	7	2017	16.7	6.3	4							
+Lithuania	AU5	Vilnia	1	mixed	7	2018	2.1	2.71	4							
+Lithuania	AU5	Vilnia	1	mixed	7	2019	28.69	0.21	4							
+Lithuania	AU5	Vilnia	1	mixed	7	2020	15.5	6	4							
+Lithuania	AU5	Vilnia	1	mixed	7	2021	6.55	2.2	4							
+Lithuania	AU5	Vilnia	1	mixed	7	2022	12.9	6.9	4							
+Lithuania	AU5	Vilnia	1	mixed	7	2023	14.46	6.08	4							
+Lithuania	AU5	Vilnia	1	mixed	7	2024	26.27	10.62	4							
+Lithuania	AU5	Vilnia	1	mixed	7	2025	16.36	4.71	4							
+Lithuania	AU5	Voke	1	mixed	2	2001	4.3	0	2							
+Lithuania	AU5	Voke	1	mixed	2	2002	0.16	0	2							
+Lithuania	AU5	Voke	1	mixed	2	2003	0	0	2							
+Lithuania	AU5	Voke	1	mixed	2	2004	9.5	0	2							
+Lithuania	AU5	Voke	1	mixed	2	2005	0.77	0	2							
+Lithuania	AU5	Voke	1	mixed	2	2006	0	0.8	2							
+Lithuania	AU5	Voke	1	mixed	2	2007	4.1	0	2							
+Lithuania	AU5	Voke	1	mixed	2	2008	4.5	0	2							
+Lithuania	AU5	Voke	1	mixed	2	2009	3.4	0.5	2							
+Lithuania	AU5	Voke	1	mixed	2	2010	NA	NA	0							
+Lithuania	AU5	Voke	1	mixed	2	2011	3.8	0	2							
+Lithuania	AU5	Voke	1	mixed	2	2012	5.2	0.8	2							
+Lithuania	AU5	Voke	1	mixed	2	2013	3.4	0.7	2							
+Lithuania	AU5	Voke	1	mixed	2	2014	9.5	3.8	2							
+Lithuania	AU5	Voke	1	mixed	2	2015	2.2	1.45	2							
+Lithuania	AU5	Voke	1	mixed	2	2016	1.6	2.85	2							
+Lithuania	AU5	Voke	1	mixed	2	2017	6.8	1.7	2							
+Lithuania	AU5	Voke	1	mixed	2	2018	0.5	6.7	2							
+Lithuania	AU5	Voke	1	mixed	2	2019	11	3	2							
+Lithuania	AU5	Voke	1	mixed	2	2020	9.5	5.35	2							
+Lithuania	AU5	Voke	1	mixed	2	2021	2.6	1.2	2							
+Lithuania	AU5	Voke	1	mixed	2	2022	34	64	2							
+Lithuania	AU5	Voke	1	mixed	2	2023	10.2	2.8	2							
+Lithuania	AU5	Voke	1	mixed	2	2024	7	7.5	2							
+Lithuania	AU5	Voke	1	mixed	2	2025	4.35	2.37	2							
+Lithuania	AU5	Musė	1	mixed	NA	2013	6	1.9	2							
+Lithuania	AU5	Musė	1	mixed	NA	2014	3.15	2.2	2							
+Lithuania	AU5	Musė	1	mixed	NA	2015	7.8	5.9	2							
+Lithuania	AU5	Musė	1	mixed	NA	2016	3.85	0.5	2							
+Lithuania	AU5	Musė	1	mixed	NA	2017	8.55	0	2							
+Lithuania	AU5	Musė	1	mixed	NA	2018	4.85	4	2							
+Lithuania	AU5	Musė	1	mixed	NA	2019	3.02	2.14	2							
+Lithuania	AU5	Musė	1	mixed	NA	2020	4.33	2.1	2							
+Lithuania	AU5	Musė	1	mixed	NA	2021	0	5.5	2							
+Lithuania	AU5	Musė	1	mixed	NA	2022	1.3	0	2							
+Lithuania	AU5	Musė	1	mixed	NA	2023	5.48	0.5	2							
+Lithuania	AU5	Musė	1	mixed	NA	2024	5	2	2							
+Lithuania	AU5	Musė	1	mixed	NA	2025	5.56	0.16	2							
+Lithuania	AU5	B. Šventoji	1	mixed	0.7	2003	1.12	0	8							
+Lithuania	AU5	B. Šventoji	1	mixed	0.7	2004	2.52	0	8							
+Lithuania	AU5	B. Šventoji	1	mixed	0.7	2005	0	0.22	9							
+Lithuania	AU5	B. Šventoji	1	mixed	0.7	2006	0	0	0							
+Lithuania	AU5	B. Šventoji	1	mixed	0.7	2007	0.02	0	5							
+Lithuania	AU5	B. Šventoji	1	mixed	0.7	2008	0.02	0	3							
+Lithuania	AU5	B. Šventoji	1	mixed	0.7	2009	2.6	0	4							
+Lithuania	AU5	B. Šventoji	1	mixed	0.7	2010	0.59	0	4							
+Lithuania	AU5	B. Šventoji	1	mixed	0.7	2011	2.94	0.15	2							
+Lithuania	AU5	B. Šventoji	1	mixed	0.7	2012	3	0	2							
+Lithuania	AU5	B. Šventoji	1	mixed	0.7	2013	2.8	0.33	2							
+Lithuania	AU5	B. Šventoji	1	mixed	0.7	2014	8	0.8	2							
+Lithuania	AU5	B. Šventoji	1	mixed	0.7	2015	8.7	1.5	2							
+Lithuania	AU5	B. Šventoji	1	mixed	0.7	2016	0.41	0	4							
+Lithuania	AU5	B. Šventoji	1	mixed	0.7	2017	3.3	0.54	3							
+Lithuania	AU5	B. Šventoji	1	mixed	0.7	2018	0.8	0.5	2							
+Lithuania	AU5	B. Šventoji	1	mixed	0.7	2019	1.48	0.12	2							
+Lithuania	AU5	B. Šventoji	1	mixed	0.7	2020	2.02	0.52	2							
+Lithuania	AU5	B. Šventoji	1	mixed	0.7	2021	2.27	0.31	2							
+Lithuania	AU5	B. Šventoji	1	mixed	0.7	2022	6.43	2.18	2							
+Lithuania	AU5	B. Šventoji	1	mixed	0.7	2023	0	0.12	2							
+Lithuania	AU5	B. Šventoji	1	mixed	0.7	2024	2.17	0	2							
+Lithuania	AU5	B. Šventoji	1	mixed	0.7	2025	1.01	0.07	2		nsites?					
+Lithuania	AU5	Debysa	1	mixed	7	2003	2.12	0	9							
+Lithuania	AU5	Debysa	1	mixed	7	2004	0.75	0	9							
+Lithuania	AU5	Debysa	1	mixed	7	2005	1.47	0	8							
+Lithuania	AU5	Debysa	1	mixed	7	2006	0	0.06	9							
+Lithuania	AU5	Debysa	1	mixed	7	2007	0.02	0	8							
+Lithuania	AU5	Debysa	1	mixed	7	2008	0.53	0.09	10							
+Lithuania	AU5	Debysa	1	mixed	7	2009	0.79	0	7							
+Lithuania	AU5	Debysa	1	mixed	7	2010	2.79	0	5							
+Lithuania	AU5	Debysa	1	mixed	7	2011	0.52	0.29	3							
+Lithuania	AU5	Debysa	1	mixed	7	2012	1.1	0.5	2							
+Lithuania	AU5	Debysa	1	mixed	7	2013	3.7	1	3							
+Lithuania	AU5	Debysa	1	mixed	7	2014	9	0.3	8							
+Lithuania	AU5	Debysa	1	mixed	7	2015	5.1	0.8	7							
+Lithuania	AU5	Debysa	1	mixed	7	2016	0.22	0.53	10							
+Lithuania	AU5	Debysa	1	mixed	7	2017	10.2	0.74	4							
+Lithuania	AU5	Debysa	1	mixed	7	2018	5.23	2.18	6							
+Lithuania	AU5	Debysa	1	mixed	7	2019	11.04	2.56	3							
+Lithuania	AU5	Debysa	1	mixed	7	2020	11.66	1.67	5							
+Lithuania	AU5	Debysa	1	mixed	7	2021	2.16	2.67	4							
+Lithuania	AU5	Debysa	1	mixed	7	2022	6.82	4.98	6							
+Lithuania	AU5	Debysa	1	mixed	7	2023	9.76	3.16	4							
+Lithuania	AU5	Debysa	1	mixed	7	2024	1.08	3.16	4							
+Lithuania	AU5	Debysa	1	mixed	7	2025	2.18	1.47	3							
+Lithuania	AU5	Minija	1	mixed	30	2009	0	0.01	7							
+Lithuania	AU5	Minija	1	mixed	30	2010	2.38	0	4							
+Lithuania	AU5	Minija	1	mixed	30	2011	11.54	0.78	4							
+Lithuania	AU5	Minija	1	mixed	30	2012	1.4	1.8	4							
+Lithuania	AU5	Minija	1	mixed	30	2013	6.7	0	3							
+Lithuania	AU5	Minija	1	mixed	30	2014	3.5	0.1	6							
+Lithuania	AU5	Minija	1	mixed	30	2015	3.95	0.54	6							
+Lithuania	AU5	Minija	1	mixed	30	2016	1.2	0.2	11							
+Lithuania	AU5	Minija	1	mixed	30	2017	3.6	0.3	5							
+Lithuania	AU5	Minija	1	mixed	30	2018	0.29	0.36	2							
+Lithuania	AU5	Minija	1	mixed	30	2018	0.29	0.36	2							
+Lithuania	AU5	Minija	1	mixed	30	2019	1.73	0.1	3							
+Lithuania	AU5	Minija	1	mixed	30	2020	4.45	1.03	5							
+Lithuania	AU5	Minija	1	mixed	30	2021	0.66	0.43	5							
+Lithuania	AU5	Minija	1	mixed	30	2022	4.66	1.16	3							
+Lithuania	AU5	Minija	1	mixed	30	2023	0.72	0.37	4							
+Lithuania	AU5	Minija	1	mixed	30	2024	2.65	0.09	4							
+Lithuania	AU5	Minija	1	mixed	30	2025	0.98	0.35	4							
+Lithuania	AU5	Dūkšta	1	mixed+wild	NA	2010	NA	NA	0							
+Lithuania	AU5	Dūkšta	1	mixed+wild	NA	2011	1.7	0	1							
+Lithuania	AU5	Dūkšta	1	mixed+wild	NA	2012	1.3	0.7	1							
+Lithuania	AU5	Dūkšta	1	mixed+wild	NA	2013	0.9	0	1							
+Lithuania	AU5	Dūkšta	1	mixed+wild	NA	2014	1	0.7	1							
+Lithuania	AU5	Dūkšta	1	mixed+wild	NA	2015	6.1	0.6	1							
+Lithuania	AU5	Dūkšta	1	mixed+wild	NA	2016	5.8	0	1							
+Lithuania	AU5	Dūkšta	1	mixed+wild	NA	2017	1.9	1.9	1							
+Lithuania	AU5	Dūkšta	1	mixed+wild	NA	2018	1.1	0.56	1							
+Lithuania	AU5	Dūkšta	1	mixed+wild	NA	2019	2.5	1.7	1							
+Lithuania	AU5	Dūkšta	1	mixed+wild	NA	2020	3.9	0.83	1							
+Lithuania	AU5	Dūkšta	1	mixed+wild	NA	2021	5.8	2.5	1							
+Lithuania	AU5	Dūkšta	1	mixed+wild	NA	2022	6.5	0	1							
+Lithuania	AU5	Dūkšta	1	mixed+wild	NA	2023	7.7	0	1							
+Lithuania	AU5	Dūkšta	1	mixed+wild	NA	2024	3.64	0.45	1							
+Lithuania	AU5	Dūkšta	1	mixed+wild	NA	2025	1.33	0.67	1							
+Lithuania	AU5	Kena	1	mixed+wild	NA	2010	4.7	0	1							
+Lithuania	AU5	Kena	1	mixed+wild	NA	2011	25.5	0	1							
+Lithuania	AU5	Kena	1	mixed+wild	NA	2012	26.7	0	1							
+Lithuania	AU5	Kena	1	mixed+wild	NA	2013	0	0	1							
+Lithuania	AU5	Kena	1	mixed+wild	NA	2014	31.1	22.2	1							
+Lithuania	AU5	Kena	1	mixed+wild	NA	2015	12.2	16.7	1							
+Lithuania	AU5	Kena	1	mixed+wild	NA	2016	16.7	2.2	1							
+Lithuania	AU5	Kena	1	mixed+wild	NA	2017	12.2	3.3	1							
+Lithuania	AU5	Kena	1	mixed+wild	NA	2018	47.7	7.8	1							
+Lithuania	AU5	Kena	1	mixed+wild	NA	2019	53.3	0	1							
+Lithuania	AU5	Kena	1	mixed+wild	NA	2020	23.3	13.3	1							
+Lithuania	AU5	Kena	1	mixed+wild	NA	2021	15	2	1							
+Lithuania	AU5	Kena	1	mixed+wild	NA	2022	26.7	0	1							
+Lithuania	AU5	Kena	1	mixed+wild	NA	2023	44.5	7.8	1							
+Lithuania	AU5	Kena	1	mixed+wild	NA	2024	11.1	2.2	1							
+Lithuania	AU5	Kena	1	mixed+wild	NA	2025	0	2.22	1							
+Lithuania	AU5	Širvinta	1	mixed+wild	NA	2004	1	0	2							
+Lithuania	AU5	Širvinta	1	mixed+wild	NA	2005	1	0	2							
+Lithuania	AU5	Širvinta	1	mixed+wild	NA	2006	0	0	2							
+Lithuania	AU5	Širvinta	1	mixed+wild	NA	2007	6.35	0.35	2							
+Lithuania	AU5	Širvinta	1	mixed+wild	NA	2008	10.9	0	2							
+Lithuania	AU5	Širvinta	1	mixed+wild	NA	2009	11.2	0	2							
+Lithuania	AU5	Širvinta	1	mixed+wild	NA	2010	NA	NA	0							
+Lithuania	AU5	Širvinta	1	mixed+wild	NA	2011	4.7	0.3	2							
+Lithuania	AU5	Širvinta	1	mixed+wild	NA	2012	0	0	2							
+Lithuania	AU5	Širvinta	1	mixed+wild	NA	2013	0.8	0	2							
+Lithuania	AU5	Širvinta	1	mixed+wild	NA	2014	2.7	0.15	2							
+Lithuania	AU5	Širvinta	1	mixed+wild	NA	2015	1.6	0	1							
+Lithuania	AU5	Širvinta	1	mixed+wild	NA	2016	1.6	0.4	1							
+Lithuania	AU5	Širvinta	1	mixed+wild	NA	2017	4.5	0	2							
+Lithuania	AU5	Širvinta	1	mixed+wild	NA	2018	5.31	0.41	1							
+Lithuania	AU5	Širvinta	1	mixed+wild	NA	2019	0	0	1							
+Lithuania	AU5	Širvinta	1	mixed+wild	NA	2020	7.8	0	1							
+Lithuania	AU5	Širvinta	1	mixed+wild	NA	2021	0.4	2	1							
+Lithuania	AU5	Širvinta	1	mixed+wild	NA	2022	1.2	0.81	1							
+Lithuania	AU5	Širvinta	1	mixed+wild	NA	2023	21.7	0	1							
+Lithuania	AU5	Širvinta	1	mixed+wild	NA	2024	0	4.2	1							
+Lithuania	AU5	Širvinta	1	mixed+wild	NA	2025	4.08	0	1							
