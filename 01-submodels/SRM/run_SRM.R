@@ -57,6 +57,8 @@ thin    <- 10
 #selected_model <- "01-submodels/SRM/model/model_SRM_smoltage.R" 
 selected_model <- "01-submodels/SRM/model/model_SRM_threshold.R" 
 #
+saveRDS(selected_data, "01-submodels/SRM/data/selected_data_treshold.rds")
+
 jm <- jags.model(
   file = selected_model,
   data = selected_data,
