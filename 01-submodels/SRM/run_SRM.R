@@ -51,11 +51,12 @@ thin    <- 10
 # thin <- 5
 
 # select model to run
-selected_model <- "01-submodels/SRM/model/model_SRM.R" 
-selected_model <- "01-submodels/SRM/model/model_SRM_parrsize.R" 
-selected_model <- "01-submodels/SRM/model/model_SRM_logit_betas.R" 
-selected_model <- "01-submodels/SRM/model/model_SRM_smoltage.R" 
-
+#selected_model <- "01-submodels/SRM/model/model_SRM.R" 
+#selected_model <- "01-submodels/SRM/model/model_SRM_parrsize.R" 
+#selected_model <- "01-submodels/SRM/model/model_SRM_logit_betas.R" 
+#selected_model <- "01-submodels/SRM/model/model_SRM_smoltage.R" 
+selected_model <- "01-submodels/SRM/model/model_SRM_threshold.R" 
+#
 jm <- jags.model(
   file = selected_model,
   data = selected_data,
