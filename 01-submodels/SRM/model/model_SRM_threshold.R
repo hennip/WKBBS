@@ -3,7 +3,7 @@ model{
   
   # Size limit for 0+ parr that are considered potential 1yr smolts
   # If mean length of 0+ is less than the size limit, all smolts will be older than 1
-  size_limit~dlnorm(log(70)-0.5*log(0.1*0.1+1),1/log(0.1*0.1+1))
+  size_limit~dlnorm(log(80)-0.5*log(0.1*0.1+1),1/log(0.1*0.1+1))T(70,)
   
   for(r in 1:rivers){
     for(y in 5:(years+1)){ 
@@ -16,7 +16,8 @@ model{
       # p_div: standardisation coefficient that ensures that p's sum to 1
       p_div[y,r]<-p[1,r]+p[2,r]+step(size[y,r]-size_limit)*p[3,r]
       
-      ES[y,r]<-betas[r]*((p[1,r]/p_div[y,r])*P2[y-1,r]+(p[2,r]/p_div[y,r])*P1[y-1,r]+step(size[y,r]-size_limit)*
+      ES[y,r]<-betas[r]*((p[1,r]/p_div[y,r])*P2[y-1,r]+(p[2,r]/p_div[y,r])*P1[y-1,r]+
+                           step(size[y,r]-size_limit)*
                            (p[3,r]/p_div[y,r])*P0[y-1,r])*A[r]/1000    #P1, P2 are densities
       
       #ES[y,r]<-betas[r]*(p[1,r]*P2[y-1,r]+p[2,r]*P1[y-1,r]+p[3,r]*P0[y-1,r])*A[r]/1000    #P1, P2 are densities
