@@ -3,7 +3,7 @@ model{
   
   # Size limit for 0+ parr that are considered potential 1yr smolts
   # If mean length of 0+ is less than the size limit, all smolts will be older than 1
-  size_limit~dlnorm(log(80)-0.5*log(0.1*0.1+1),1/log(0.1*0.1+1))T(70,)
+  size_limit~dlnorm(log(75)-0.5*log(0.05*0.05+1),1/log(0.05*0.05+1))T(65,)
   
   for(r in 1:rivers){
     for(y in 5:(years+1)){ 

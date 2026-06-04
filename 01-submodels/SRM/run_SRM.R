@@ -60,20 +60,20 @@ selected_model <- "01-submodels/SRM/model/model_SRM_threshold.R"
 #saveRDS(selected_data, "01-submodels/SRM/data/selected_data_treshold.rds")
 #readRDS("01-submodels/SRM/data/selected_data_treshold.rds")
 
-jm <- jags.model(
-  file = selected_model,
-  data = selected_data,
-  n.chains = 1,
-  n.adapt = 0
-)
-
-# Run model ####
-jm <- jags.model(
-  file=selected_model,
-  data=selected_data,
-  n.chains=n.chains,
-  inits=inits
-)
+# jm <- jags.model(
+#   file = selected_model,
+#   data = selected_data,
+#   n.chains = 1,
+#   n.adapt = 0
+# )
+# 
+# # Run model ####
+# jm <- jags.model(
+#   file=selected_model,
+#   data=selected_data,
+#   n.chains=n.chains,
+#   inits=inits
+# )
 
 # update(jm, adapt + burnin) 
 # 
@@ -116,8 +116,9 @@ print("--------------------------------------------------")
 run<-run2
 save(run,file = "../out/benchmark/SRM_threshold.Rdata") 
 
-summary(run, var="size_limit")
-library(writexl)
-res<-as.data.frame(summary(run, var="S[30,1]"))
-res<-as.data.frame(summary(run, var="S"))
-write_xlsx(res, "../out/benchmark/S_treshold.xlsx")
+chains<-as.mcmc.list(run)
+#summary(run, var="size_limit")
+#library(writexl)
+#res<-as.data.frame(summary(run, var="S[30,1]"))
+#res<-as.data.frame(summary(run, var="S"))
+#write_xlsx(res, "../out/benchmark/S_treshold.xlsx")

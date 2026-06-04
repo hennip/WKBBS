@@ -26,7 +26,7 @@ theme_report <- theme_bw(base_size = 11) +
 d<-as.matrix(chains)
 
 # or load one chain
-load("01-submodels/SRM/output_local/SRM_benchmark_baseline.Rdata"); d<-as.matrix(chains)
+#load("01-submodels/SRM/output_local/SRM_benchmark_baseline.Rdata"); d<-as.matrix(chains)
 # load("01-submodels/SRM/output_local/SRM_benchmark_parr_dev.Rdata"); d<-as.matrix(chains)
 # load("01-submodels/SRM/output_local/SRM_benchmark_logit_betaS.Rdata"); d<-as.matrix(chains)
 # load("01-submodels/SRM/output_local/SRM_benchmark_logit_betaS_parr_dev.Rdata"); d<-as.matrix(chains)
