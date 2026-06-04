@@ -40,7 +40,7 @@ stopifnot(all(!is.na(age_river_full)))
 n.chains <- 2
 adapt   <- 5000
 burnin  <- 40000
-samples <- 5000
+samples <- 100000
 thin    <- 10
 
 # for longer runs
@@ -57,28 +57,72 @@ thin    <- 10
 #selected_model <- "01-submodels/SRM/model/model_SRM_smoltage.R" 
 selected_model <- "01-submodels/SRM/model/model_SRM_threshold.R" 
 #
-saveRDS(selected_data, "01-submodels/SRM/data/selected_data_treshold.rds")
+#saveRDS(selected_data, "01-submodels/SRM/data/selected_data_treshold.rds")
+#readRDS("01-submodels/SRM/data/selected_data_treshold.rds")
 
-jm <- jags.model(
-  file = selected_model,
-  data = selected_data,
-  n.chains = 1,
-  n.adapt = 0
-)
+# jm <- jags.model(
+#   file = selected_model,
+#   data = selected_data,
+#   n.chains = 1,
+#   n.adapt = 0
+# )
+# 
+# # Run model ####
+# jm <- jags.model(
+#   file=selected_model,
+#   data=selected_data,
+#   n.chains=n.chains,
+#   inits=inits
+# )
 
-# Run model ####
-jm <- jags.model(
-  file=selected_model,
-  data=selected_data,
-  n.chains=n.chains,
-  inits=inits
-)
+# update(jm, adapt + burnin) 
+# 
+# chains <- coda.samples(jm, 
+#                        mon,
+#                        n.iter=samples,
+#                        thin=thin)
+# 
+# save(chains,file = "../out/benchmark/SRM_benchmark.Rdata") 
+#save(chains,file = "output/benchmark/SRM_benchmark.Rdata")
 
-update(jm, adapt + burnin) 
+# Runjags
+t01<-Sys.time();print(t01)
+run0 <- run.jags(selected_model, monitor= mon,
+                 data=selected_data,inits = inits,
+                 n.chains = n.chains, method = 'parallel', thin=10,
+                 burnin =10000, modules = "mix",
+                 sample =10000, adapt = 10000,
+                 keep.jags.files=F,
+                 progress.bar=TRUE, jags.refresh=100)
+t02<-Sys.time();print(t02)
+print("run0 done");print(difftime(t02,t01))
+print("--------------------------------------------------")
+run<-run0
+save(run,file = "../out/benchmark/SRM_threshold.Rdata") 
 
-chains <- coda.samples(jm, 
-                       mon,
-                       n.iter=samples,
-                       thin=thin)
+t1<-Sys.time();print(t1)
+run1 <- extend.jags(run0, combine=T, sample=10000, thin=10, keep.jags.files=F)
+t2<-Sys.time();print(t2)
+print("run1 done"); print(difftime(t2,t1))
+print("--------------------------------------------------")
+run<-run1
+save(run,file = "../out/benchmark/SRM_threshold.Rdata") 
 
+<<<<<<< HEAD
 save(chains,file = "output/benchmark/SRM_benchmark.Rdata") 
+=======
+t1<-Sys.time();print(t1)
+run2 <- extend.jags(run1, combine=T, sample=100000, thin=10, keep.jags.files=F)
+t2<-Sys.time();print(t2)
+print("run2 done"); print(difftime(t2,t1))
+print("--------------------------------------------------")
+run<-run2
+save(run,file = "../out/benchmark/SRM_threshold.Rdata") 
+
+chains<-as.mcmc.list(run)
+#summary(run, var="size_limit")
+#library(writexl)
+#res<-as.data.frame(summary(run, var="S[30,1]"))
+#res<-as.data.frame(summary(run, var="S"))
+#write_xlsx(res, "../out/benchmark/S_treshold.xlsx")
+>>>>>>> a4050b7d383ea00d0485fda50249285038ac9eaa
