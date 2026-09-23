@@ -11,33 +11,33 @@ source("00-basics/plotfunctions.r")
 this_cluster <- makeCluster(4,outfile="")
 modelfile<-"BB_final.R"
 
-# Beckyn esimerkkidata
-load("02-data/input-smolt-mark-recap/RData_dump_K_2019.RData")
-catch<-rdata$c # c: The number of unmarked smolts captured in day j
-catch[catch== -9]<-NA
-
-m<-rdata$m # the number of smolts with group-specific marks released in day i
-m[m== -9]<-0
-
-r<-rdata$r # the number of smolts with group-specific marks released in day i and recaptured in day j
-r[r== -9]<-0 # Replaces NA's with zeros (maybe?)
-
-which(is.na(catch))
-r[,which(is.na(catch))]<-NA
-N<-length(m)
-
-wt<-rdata$wt # water temperaryr in day j
-wl<-rdata$wl # water level or discharge in day j
-
-m[is.na(m)]<-0
-rind<-which(m!=0)  #indices with non 0 releases of tagged fish 
-rind<-rind[!(rind %in% N)] 
-
+# # Beckyn esimerkkidata
+# load("02-data/input-smolt-mark-recap/RData_dump_K_2019.RData")
+# catch<-rdata$c # c: The number of unmarked smolts captured in day j
+# catch[catch== -9]<-NA
+# 
+# m<-rdata$m # the number of smolts with group-specific marks released in day i
+# m[m== -9]<-0
+# 
+# r<-rdata$r # the number of smolts with group-specific marks released in day i and recaptured in day j
+# r[r== -9]<-0 # Replaces NA's with zeros (maybe?)
+# 
+# which(is.na(catch))
+# r[,which(is.na(catch))]<-NA
+# N<-length(m)
+# 
+# wt<-rdata$wt # water temperaryr in day j
+# wl<-rdata$wl # water level or discharge in day j
+# 
+# m[is.na(m)]<-0
+# rind<-which(m!=0)  #indices with non 0 releases of tagged fish 
+# rind<-rind[!(rind %in% N)] 
+# 
 
 #View(rdata)
 
 # Pirita
-df<-read_xlsx("../../01-Projects/WGBAST/Pirita/Pirita salar smolts 2020-2006.xlsx", 
+df<-read_xlsx("../../dat/WKBBS/Pirita salar smolts 2020-2006.xlsx", 
               sheet="2020", range="A3:AQ40")
 
 df2<-df |> 
@@ -54,13 +54,9 @@ m[is.na(m)]<-0
 rind<-which(m!=0)  #indices with non 0 releases of tagged fish 
 rind<-rind[!(rind %in% N)] 
 
-#View(df2)
-
-#?read_xlsx
-df_r<-read_xlsx("../../01-Projects/WGBAST/Pirita/Pirita salar smolts 2020-2006.xlsx", 
+# Recap-matrix
+df_r<-read_xlsx("../../dat/WKBBS/Pirita salar smolts 2020-2006.xlsx", 
                 sheet="2020", range="F4:AP40", col_names=F)
-
-#View(df_r)
 
 r<-as.matrix(df_r)
 
@@ -203,7 +199,7 @@ v1 <- mcmc(chain_output[[1]]$samples)
 v2 <- mcmc(chain_output[[2]]$samples)
 chains<-mcmc.list(list(v1,v2)) 
 d<-as.matrix(chains)
-
+saveRDS(chains, "../out/benchmark/Pirita_2020.RDS")
 
 #chains<-mcmc(results)
 #d<-as.matrix(chains)
@@ -227,7 +223,7 @@ plot(density(d[,"CU"]),main="",xlim=c(0,75000),lwd=2)
 
 quantile(d[,"CU"],c(0.025,0.50,0.975))
 
-source("plotfunctions.r")
+source("00-basics/plotfunctions.r")
 
 dev.new()        
 par(mfrow=c(1,1),mar=c(3,4,0.1,0.1),oma=c(2,2,0.1,0.1),font=2,font.lab=2,font.axis=2,cex.lab=1,cex.axis=1) 
