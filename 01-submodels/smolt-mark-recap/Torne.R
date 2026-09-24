@@ -26,8 +26,9 @@ df1<-df_recaps |> group_by(rel_date, recap_date) |>
   ungroup() 
 
 
-df<-df_recaps |> mutate(rel_yday=yday(rel_date),
-                    recap_yday=yday(recap_date)) |> 
+df_recaps<-df_recaps |> mutate(rel_yday=yday(rel_date),
+                    recap_yday=yday(recap_date))
+df<-  df_recaps |> 
   group_by(rel_yday, recap_yday) |> 
   summarise(n=n()) |> ungroup() |> 
   arrange(rel_yday,recap_yday) |> 
@@ -46,25 +47,23 @@ df<-df_recaps |> mutate(rel_yday=yday(rel_date),
 #rel_empty<-seq(min(df$rel_yday, na.rm = T), max(df$rel_yday, na.rm = T), by = 1) 
 #recap_empty<-seq(min(df$rel_yday, na.rm = T), max(df$recap_yday, na.rm = T), by =1) 
 min_d<-min(df$rel_yday, na.rm = T)
+min(df_recaps$rel_date, na.rm=T)
 max_d<-max(df$recap_yday, na.rm = T)
 c_empty<-seq(min_d, max_d, by =1) 
 
-df_empty<-array(NA, dim=c(length(c_empty),length(c_empty)))
+df_r<-array(NA, dim=c(length(c_empty),length(c_empty)))
 for(i in 1:dim(df)[1]){
   tmp_reld<-df$rel_yday[i]-min_d+1
   tmp_recd<-df$recap_yday[i]-min_d+1
-  df_empty[tmp_reld,tmp_recd]<-df$n[i]
+  df_r[tmp_reld,tmp_recd]<-df$n[i]
 }
-df_empty
+View(df_r)
     
-# 
-    # for(j in 1:dim(df)[1]){
-    # if(df$rel_yday[i]==min_d+i-1 &
-    #  df$recap_yday[j]==min_d+j-1){
-    #   df_empty[i,j]<-df$n[i]
-    # }}}
-  
-
+df_recaps$rel_date
+#df_recaps|> filter(rel_date== "2025-05-26 UTC")
+x<-df_recaps|> filter(rel_yday==153, is.na(recap_date)==F) |> 
+  select(rel_yday, recap_yday, everything())
+print(x=x, n=100)
 
 
 
