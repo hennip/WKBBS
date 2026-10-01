@@ -36,8 +36,11 @@ modelfile<-"BB_final.R"
 
 #View(rdata)
 
+path_in<-"../../01-Projects/WGBAST/smolt-mark-recapture/Pirita/"
+#path_in<-"../../dat/WKBBS/Pirita salar smolts 2020-2006.xlsx" 
+
 # Pirita
-df<-read_xlsx("../../dat/WKBBS/Pirita salar smolts 2020-2006.xlsx", 
+df<-read_xlsx(str_c(path_in,"Pirita salar smolts 2020-2006.xlsx"), 
               sheet="2020", range="A3:AQ40")
 
 df2<-df |> 
@@ -55,7 +58,7 @@ rind<-which(m!=0)  #indices with non 0 releases of tagged fish
 rind<-rind[!(rind %in% N)] 
 
 # Recap-matrix
-df_r<-read_xlsx("../../dat/WKBBS/Pirita salar smolts 2020-2006.xlsx", 
+df_r<-read_xlsx(str_c(path_in,"Pirita salar smolts 2020-2006.xlsx"), 
                 sheet="2020", range="F4:AP40", col_names=F)
 
 r<-as.matrix(df_r)
@@ -84,7 +87,7 @@ make.inits <- function(){list(sigma_obs = runif(1,1,100),
 
 
 Mconsts<-list(N=N, rind=rind,nrobs=length(rind),mu_mu_ag=log(N/2))
-Mdata<-list(m=m ,  
+MdataP<-list(m=m ,  
             swt=(wt[1:N]-mean(wt))/sd(wt), 
             swl=(wl[1:N]-mean(wl))/sd(wl),
             Ncatch=catch,r=r)  
