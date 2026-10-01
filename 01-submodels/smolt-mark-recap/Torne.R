@@ -6,7 +6,11 @@ library(readxl)
 library(tidyverse)
 library(lubridate)
 
-df_catch<-read_xls("../../01-Projects/WGBAST/smolt-mark-recapture/Torne/Smolttisaalis_2025_AR.xls", 
+#path_in<-"../../01-Projects/WGBAST/smolt-mark-recapture/Pirita/"
+path_in<-"../../dat/WKBBS/" 
+
+
+df_catch<-read_xls(str_c(path_in,"Smolttisaalis_2025_AR.xls"), 
               sheet="saalis", col_names=T, range="A4:I40") |> 
   rename(w_temp=`veden lämpötila/ water temperature`,
          w_height=`vedenkorkeus/ water level`) |> 
@@ -14,7 +18,7 @@ df_catch<-read_xls("../../01-Projects/WGBAST/smolt-mark-recapture/Torne/Smolttis
   select(date_yday, everything()) |> 
   complete(date_yday) # Fills NA if a date is missed
 
-df_recaps<-read_xlsx("../../01-Projects/WGBAST/smolt-mark-recapture/Torne/Merkinnät_2025.xlsx", 
+df_recaps<-read_xlsx(str_c(path_in,"Merkinnät_2025.xlsx"), 
                     sheet="Yksilödata lohi", col_names=T, guess_max = 5000 )|> 
   rename(rel_date=`vapautus "päivä"`, recap_date=`Takaisin-saanti-"päivä"`)|> 
   mutate(rel_yday=yday(rel_date),
@@ -197,7 +201,7 @@ v1 <- mcmc(chain_output[[1]]$samples)
 v2 <- mcmc(chain_output[[2]]$samples)
 chains<-mcmc.list(list(v1,v2)) 
 d<-as.matrix(chains)
-saveRDS(chains, "../out/benchmark/Pirita_2020.RDS")
+#saveRDS(chains, "../out/benchmark/Pirita_2020.RDS")
 
 #chains<-mcmc(results)
 #d<-as.matrix(chains)
