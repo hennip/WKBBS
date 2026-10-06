@@ -5,13 +5,14 @@ library(parallel)
 library(readxl)
 library(tidyverse)
 library(lubridate)
+library(runjags)
 
 #path_in<-"../../01-Projects/WGBAST/smolt-mark-recapture/Pirita/"
 path_in<-"../../dat/WKBBS/" 
 
 
 df_catch<-read_xls(str_c(path_in,"Smolttisaalis_2025_AR.xls"), 
-              sheet="saalis", col_names=T, range="A4:I40") |> 
+                   sheet="saalis", col_names=T, range="A4:I40") |> 
   rename(w_temp=`veden lämpötila/ water temperature`,
          w_height=`vedenkorkeus/ water level`) |> 
   mutate(date_yday=yday(pvm),catch=lohi) |> 
@@ -19,7 +20,7 @@ df_catch<-read_xls(str_c(path_in,"Smolttisaalis_2025_AR.xls"),
   complete(date_yday) # Fills NA if a date is missed
 
 df_recaps<-read_xlsx(str_c(path_in,"Merkinnät_2025.xlsx"), 
-                    sheet="Yksilödata lohi", col_names=T, guess_max = 5000 )|> 
+                     sheet="Yksilödata lohi", col_names=T, guess_max = 5000 )|> 
   rename(rel_date=`vapautus "päivä"`, recap_date=`Takaisin-saanti-"päivä"`)|> 
   mutate(rel_yday=yday(rel_date),
          recap_yday=yday(recap_date))
@@ -60,8 +61,8 @@ df<-  df_recaps |>
 min_d<-min(df$rel_yday, na.rm = T)
 min(df_recaps$rel_date, na.rm=T)
 max_d<-max(df$recap_yday, na.rm = T)
-
 c_empty<-seq(min_d, max_d, by =1) 
+
 df_r<-array(0, dim=c(length(c_empty),length(c_empty)))
 for(i in 1:dim(df)[1]){
   tmp_reld<-df$rel_yday[i]-min_d+1
@@ -76,6 +77,60 @@ df_recaps$rel_date
 x<-df_recaps|> filter(rel_yday==153, is.na(recap_date)==F) |> 
   select(rel_yday, recap_yday, everything())
 print(x=x, n=100)
+
+
+########
+# RUN JAGS MODEL
+
+#Mconsts<-list(N=N, rind=rind,nrobs=length(rind),mu_mu_ag=log(N/2))
+data<-list(N=N, rind=rind,nrobs=length(rind),mu_mu_ag=log(N/2),
+           m=as.vector(m),  
+            swt=(wt[1:N]-mean(wt))/sd(wt), 
+            swl=(wl[1:N]-mean(wl))/sd(wl),
+            Ncatch=df_mc$catch,r=df_r)  
+
+parnames<-c("P",
+            "omega0","omega1","omega2",
+            "pi", # the standard deviation of random means of log(traveling time) of smolt groups
+            "psi0","psi1","psi2",
+            "qmu",
+            "rho", # the standard deviation of random standard deviations
+            "theta",
+            "xi",
+            "tau",
+            "eta",
+            "phi1",
+            "lambda", # the random effect mean of log(traveling time) of a smolt group released in day i
+            "lsigma",
+            "nu0","nu1","nu2",
+            "qP",
+            "cx", # recaptures?
+            "CU",
+            "ag",
+            "rx",
+            "sigma_obs") #"mu.c","tau.c",
+
+source("01-submodels/smolt-mark-recap/jags_model.R")
+
+#sink(paste0("sink_",run_name,"_",".txt"))
+#sink()
+print(run_name)
+
+t1<-Sys.time();print(t1)
+run1<-run.jags(smolt_model, monitor=parnames,data=data,n.chains = 2, 
+               #inits=inits,
+               method = 'parallel', thin=10,
+               burnin =1000, modules = "mix",
+               sample =1000, adapt = 1000,
+               keep.jags.files=F,
+               progress.bar=TRUE, jags.refresh=100)
+run<-run1
+save(run, file=paste0(path_output,run_name,".RData"))
+t2<-Sys.time();print(t2)
+print("run1 done");print(difftime(t2,t1))
+print("--------------------------------------------------")
+
+sink()
 
 
 ########
@@ -136,30 +191,30 @@ parnames<-c("P",
 
 source(modelfile)
 
-# MRModel<- nimbleModel(code = smoltCode, constants = Mconsts,  
-#                       inits=make.inits(),data=Mdata,calculate=FALSE)
-# 
-# MRModel$simulate()
-# MRModel$calculate()
-# 
-# nimbleOptions(MCMCenableWAIC = TRUE) # laittaa informaatiokriteerin päälle
-# # Konfiguroidaan mallia ajoa varten
-# MRConf <- configureMCMC(MRModel, print=TRUE, useConjugacy = FALSE, monitors = parnames, 
-#                         multivariateNodesAsScalars = TRUE)   #useConjugacy = FALSE
-# # Jos katsoo MRConf saa näkyviin käytettävät samplerit
-# #MRConf$
-# 
-# # Käännetään C-koodiksi
-# mMCMC <- buildMCMC(MRConf) # uncompiled R code
-# # Käytetäänkö tätä mihinkään? 
-# CMR <- compileNimble(MRModel,dbetabin,rbetabin)  
-# # Tämän perusteella tehdään MCMC
-# CMRMCMC <- compileNimble(mMCMC, project = MRModel)  
-# 
-# 
-# results <- runMCMC(CMRMCMC, niter =  400000, nburnin = 200000, thin=200, #setSeed = seed,
-#                    WAIC=TRUE)      #1000 per chain
-# 
+MRModel<- nimbleModel(code = smoltCode, constants = Mconsts,  
+                      inits=make.inits(),data=Mdata,calculate=FALSE)
+
+MRModel$simulate()
+MRModel$calculate()
+
+nimbleOptions(MCMCenableWAIC = TRUE) # laittaa informaatiokriteerin päälle
+# Konfiguroidaan mallia ajoa varten
+MRConf <- configureMCMC(MRModel, print=TRUE, useConjugacy = FALSE, monitors = parnames, 
+                        multivariateNodesAsScalars = TRUE)   #useConjugacy = FALSE
+# Jos katsoo MRConf saa näkyviin käytettävät samplerit
+#MRConf$
+
+# Käännetään C-koodiksi
+mMCMC <- buildMCMC(MRConf) # uncompiled R code
+# Käytetäänkö tätä mihinkään? 
+CMR <- compileNimble(MRModel,dbetabin,rbetabin)  
+# Tämän perusteella tehdään MCMC
+CMRMCMC <- compileNimble(mMCMC, project = MRModel)  
+
+
+results <- runMCMC(CMRMCMC, niter =  400000, nburnin = 200000, thin=200, #setSeed = seed,
+                   WAIC=TRUE)      #1000 per chain
+
 
 run_SmoltCode <- function(seed,smodel,sdata,sconsts,sinits,smonitor) {
   library(nimble) 

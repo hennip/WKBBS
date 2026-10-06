@@ -1,29 +1,5 @@
-             
-
-dbetabin<-nimbleFunction(run=function(x=double(0),mu=double(0),phi=double(0),size=double(0), log = integer(0, default=0)){
-  returnType(double(0))
-
-  #if(x>=0&x<=size){
-  logProb<-lgamma((size+0.001)+1)+lgamma(x+mu*phi)+lgamma((size+0.001)-x+(1-mu)*phi)+lgamma(phi)-
-             lgamma((size+0.001)+phi)-lgamma(mu*phi)-lgamma((1-mu)*phi)-lgamma((size+0.001)-x+1)-lgamma(x+1)
-  if (log) return(logProb)
-  else return(exp(logProb))
-#},buildDerivs = TRUE)                                                                                           
-})
-
-rbetabin<-nimbleFunction(run=function(n=integer(0),mu=double(0),phi=double(0),size=double(0)){
-  pr<-rbeta(1,mu*phi,(1-mu)*phi)
-  returnType(double(0))
-  return(rbinom(1,round(size),pr))
-})
-
-#phi=eta or (1/corr)-1 
-# Register the Beta-Binomial as a distribution for NIMBLE (see Functions.R for dbetabin).
-registerDistributions(list(dbetabin=list(
-  BUGSdist='dbetabin(mu,phi,size)')))      #,discrete=TRUE)
-
-#########################################################################################   
-smoltCode<-nimbleCode({ 
+smolt_model<-"
+model{
 ## Prior distribution for the population size ##
 
   U <- round(CU)                                              
@@ -57,7 +33,7 @@ smoltCode<-nimbleCode({
   
 for(i in 1:N) {              
     
-    g[i] ~ T(dgamma(ag[i, w], 1),0.001, )
+    g[i] ~ dgamma(ag[i, w], 1)#T(0.001,)
     P[i] <- g[i] / sum(g[1:N])
   
     ag[i, 1] <- 0.029
@@ -117,11 +93,9 @@ nu0 ~ dnorm(0, 1)
 nu1 ~ dnorm(0, 2)
 nu2 ~ dnorm(0, 2)
 
-#sigma_obs ~ T(dgamma(0.01, 0.01),0.01,)  #orig dgamma(0.001,0.001), doesn't work well in Nimble
+sigma_obs ~ dgamma(0.01, 0.01)#T(0.01,)  #orig dgamma(0.001,0.001), doesn't work well in Nimble
 #sigma_obs ~ dgamma(0.01, 0.01)
 #sigma_obs ~ dunif(10, 1000)
-sigma_obs ~ dlnorm(log(1)-0.5*10, 1/10)
-
 xi~dlnorm(-0.69,2) #sd                 
 invxi2 <- 1 / pow(xi, 2)
 
@@ -145,7 +119,4 @@ wp[1] <- 1 / 3
 wp[2] <- 1 / 3
 wp[3] <- 1 / 3
 
-})   #Nimble
-
-assign('dbetabin', dbetabin, envir = .GlobalEnv)
-assign('rbetabin', rbetabin, envir = .GlobalEnv)
+}"
