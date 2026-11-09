@@ -1,9 +1,9 @@
 
 
 #df_catch<-read_xls(str_c(path_in,"Smolttisaalis_2025_AR.xls"), 
-
+                    
 df_catch<-read_xls("tmp/Smolttisaalis_2025_AR.xls", 
-                   sheet="saalis", col_names=T, range="A4:I40") |> 
+              sheet="saalis", col_names=T, range="A4:I40") |> 
   rename(w_temp=`veden lämpötila/ water temperature`,
          w_height=`vedenkorkeus/ water level`) |> 
   mutate(date_yday=yday(pvm),catch=lohi) |> 
@@ -12,7 +12,7 @@ df_catch<-read_xls("tmp/Smolttisaalis_2025_AR.xls",
 
 #df_recaps<-read_xlsx(str_c(path_in,"Merkinn?t_2025.xlsx"), 
 df_recaps<-read_xlsx("tmp/Merkinnät_2025.xlsx",
-                     sheet="Yksilödata lohi", col_names=T, guess_max = 5000 )|> 
+                    sheet="Yksilödata lohi", col_names=T, guess_max = 5000 )|> 
   rename(rel_date=`vapautus "päivä"`, recap_date=`Takaisin-saanti-"päivä"`)|> 
   mutate(rel_yday=yday(rel_date),
          recap_yday=yday(recap_date))

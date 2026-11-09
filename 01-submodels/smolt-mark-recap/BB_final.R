@@ -1,5 +1,4 @@
              
-
 dbetabin<-nimbleFunction(run=function(x=double(0),mu=double(0),phi=double(0),size=double(0), log = integer(0, default=0)){
   returnType(double(0))
 
@@ -28,18 +27,13 @@ smoltCode<-nimbleCode({
 
   U <- round(CU)                                              
   CU <- (exp(logU))                                          
-  logU ~ dunif(5, 14.50)    
+  logU ~ dunif(5, 15.50)  #upper bound from 14.5 to 15.5 October 2026  
 
   for(j in 1:N) {
     qP[j] <- qmu[j] * P[j]
     delts[j] <- 1/((sigma_obs + 1) * (1 -  qP[j]) / (P[j] * (1 - qmu[j])) - 1)   #correlation (high when sigma is low, used as parameter of Samu's BB)
     eta.c[j]<-1/delts[j]-1     #back to sigma for catch
-    
-    # Catch is binomially distributed given the size of unmarked population CU and 
-    # catchability qP*eta.c
     Ncatch[j]~dbetabin(qP[j],eta.c[j],CU)     #mu, phi, size
-    
-    # cx: recaptures?
     cx[j]~dbetabin(qP[j],eta.c[j],CU)     #mu, phi, size
 
   }
@@ -55,10 +49,13 @@ smoltCode<-nimbleCode({
   
   theta[N,N]<-1
   
+#  P[1:N]~ddirch(alphaP[1:N])
+  
 for(i in 1:N) {              
     
     g[i] ~ T(dgamma(ag[i, w], 1),0.001, )
-    P[i] <- g[i] / sum(g[1:N])
+   P[i] <- g[i] / sum(g[1:N])
+    
   
     ag[i, 1] <- 0.029
     ag[i, 2] <- 0.1
@@ -71,15 +68,10 @@ for(i in 1:N) {
 	  etamu[i] <- nu0 + nu1 * swl[i] + nu2 * swt[i]	
 
     for(j in (i + 1):N) {					
-       theta[i, j]<-(phi(((log(j-i+0.5)-mu[i]))/lsigma[i])-
-                       step(j-i-1.1)*phi(((log(j-i-0.5)-mu[i]))/lsigma[i]))
+       theta[i, j]<-(phi(((log(j-i+0.5)-mu[i]))/lsigma[i])-step(j-i-1.1)*phi(((log(j-i-0.5)-mu[i]))/lsigma[i]))
        
-       theta1[i, j]<-(phi(((log(j-i+0.5)-mu[i]))/lsigma[i])-
-                        step(j-i-1.1)*phi(((log(j-i-0.5)-mu[i]))/lsigma[i]))/
-         ((phi(((log(N-i+0.5)-mu[i]))/lsigma[i])-phi((log(0.5)-mu[i])/lsigma[i]))+0.0000001) 
-       
-       check[i,j]<-((phi(((log(N-i+0.5)-mu[i]))/lsigma[i])-
-                       phi((log(0.5)-mu[i])/lsigma[i]))+0.0000001) 
+       theta1[i, j]<-(phi(((log(j-i+0.5)-mu[i]))/lsigma[i])-step(j-i-1.1)*phi(((log(j-i-0.5)-mu[i]))/lsigma[i]))/((phi(((log(N-i+0.5)-mu[i]))/lsigma[i])-phi((log(0.5)-mu[i])/lsigma[i]))+0.0000001) 
+       check[i,j]<-((phi(((log(N-i+0.5)-mu[i]))/lsigma[i])-phi((log(0.5)-mu[i])/lsigma[i]))+0.0000001) 
        
    #    pmov[i,j,s]<-(phi((log(IN[j+1])-(log(14)+mean_v))/sigma_v)-phi((log(IN[j])-(log(14)+mean_v))/sigma_v))/(phi((log(IN[ubound_s[i,s]+1])-(log(14)     #                                  +mean_v))/sigma_v)-phi((log(IN[1])-(log(14)+mean_v))/sigma_v))  
        
@@ -117,11 +109,9 @@ nu0 ~ dnorm(0, 1)
 nu1 ~ dnorm(0, 2)
 nu2 ~ dnorm(0, 2)
 
-#sigma_obs ~ T(dgamma(0.01, 0.01),0.01,)  #orig dgamma(0.001,0.001), doesn't work well in Nimble
+sigma_obs ~ T(dgamma(0.01, 0.01),0.01,)  #orig dgamma(0.001,0.001), doesn't work well in Nimble
 #sigma_obs ~ dgamma(0.01, 0.01)
 #sigma_obs ~ dunif(10, 1000)
-sigma_obs ~ dlnorm(log(1)-0.5*10, 1/10)
-
 xi~dlnorm(-0.69,2) #sd                 
 invxi2 <- 1 / pow(xi, 2)
 
