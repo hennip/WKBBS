@@ -1512,18 +1512,18 @@ for (j in 6:6){
 #	HRL[j] ~dbeta (2,5)	# Harvest rate longline fishery	
 }
 
-#tauqd ~ dgamma(10,1)T(1,)
-#tauql ~ dgamma(50,1)T(1,)
-#tauqr ~ dgamma(10,1)T(1,)
-#tauqcgn ~ dgamma(10,1)T(1,)			
-#tauqctn ~ dgamma(10,1)T(1,)
+tauqd ~ dgamma(10,1)T(1,)
+tauql ~ dgamma(50,1)T(1,)
+tauqr ~ dgamma(10,1)T(1,)
+tauqcgn ~ dgamma(10,1)T(1,)			
+tauqctn ~ dgamma(10,1)T(1,)
 
 
-tauqd ~ dunif(5,30)
-tauql ~ dunif(30,80)
-tauqr ~ dunif(5,30)
-tauqcgn ~ dunif(5,30)
-tauqctn ~ dunif(5,30)
+# tauqd ~ dunif(5,30)
+# tauql ~ dunif(30,80)
+# tauqr ~ dunif(5,30)
+# tauqcgn ~ dunif(5,30)
+# tauqctn ~ dunif(5,30)
 
 
 #Negbin ~1/overdispersion parameters
