@@ -1,6 +1,3 @@
-##April 2026 Error in node qrW
-##Slicer stuck at value with infinite density
-
 WGBAST_model<-"
 
 model{ 
@@ -30,7 +27,7 @@ for(i in 2:(m+proj_years)){
 for(s in 1:stocks){
 #here i index denotes smolt year
 
-   simm[1,1,s]<-exp(-(11*MpsW[1,AU[s]]/Tstep))*exp(-(MpsW[1,AU[s]]*sealMort[1,1,1]/Tstep))     #note AU 1 sealMort for all change later
+   simm[1,1,s]<-exp(-(11*MpsW[1,s]/Tstep))*exp(-(MpsW[1,s]*sealMort[1,1,1]/Tstep))     #note AU 1 sealMort for all change later
    smat[1,1,s]<-1    #not used anywhere
 
    for(j in 2:6){
@@ -40,7 +37,7 @@ for(s in 1:stocks){
     
 for(i in 2:(m+proj_years)){
       
-    simm[i,1,s]<-exp(-(11*MpsW[i,AU[s]]/Tstep))*exp(-(MpsW[i,AU[s]]*sealMort[i,1,1]/Tstep))   #note AU 1 sealMort for all change later
+    simm[i,1,s]<-exp(-(11*MpsW[i,s]/Tstep))*exp(-(MpsW[i,s]*sealMort[i,1,1]/Tstep))   #note AU 1 sealMort for all change later
     smat[i,1,s]<-1    #not used anywhere
     
     for(j in 2:6){
@@ -842,27 +839,21 @@ for (i in 6:(m-1)){
     
     #Simo 
     
-    #   TRUE amount
+    #   just a rename for convenience
     sp_simoT[i] = NrW_msw_Simo[i]
 	  NrW_msw_Simo[i]<-round((NrW_msw[i,2]+NrRsp_msw[i,2])*1000)+1   
-	  # muDS[i]<-log(NrW_msw_Simo[i]/coefDS)-0.5*(1/tauDS) # Without hierarchy
-   
-    # sp_count[i,2]~dlnorm(muDS[i], tauDS) # Simojoki Didson count
-    # sp_countX[i,2]~dlnorm(muDS[i], tauDS) 
-    #   old
+	  
+	  #muDS[i]<-log(NrW_msw_Simo[i]/coefDS)-0.5*(1/tauDS) # Without hierarchy
     
-    #   fitting double + true to spccount, with small 0.5% cv so that 
-    #   dlnorm functions as a fit for sum operator
-    sp_count[i,2]~dlnorm(muDS[i], tauDS) # Simojoki Didson count
-    sp_countX[i,2]~dlnorm(muDS[i], tauDS)
-    
-    #   negbin for the double amount
+    #   expected value for obs, with both doubles and trues summed 
+    muDS[i]<-log(sp_simoT[i]+sp_simoDBL[i])-0.5*(1/tauDS) # Without hierarchy
+
+    #   doublecounts from negbin, p_simoUniq is just 1/coefDS
     sp_simoDBL[i] ~ dnegbin(p_simoUniq, sp_simoT[i])
     
-    #   true + double  = observed mu
-    muDS[i]<-log(sp_simoT[i]+sp_simoDBL[i])-0.5*(1/tauDS)
-    
-    #   new neg bin
+    #   fit to the observations
+    sp_count[i,2]~dlnorm(muDS[i], tauDS) # Simojoki Didson count
+    sp_countX[i,2]~dlnorm(muDS[i], tauDS) 
   
     mu_ladder[i,2]<-log(NladderW_tot[i,2])-0.5/tau_ladder
     ladder_count[i,2]~dlnorm(mu_ladder[i,2],tau_ladder)
@@ -952,7 +943,7 @@ MR ~dlnorm(-2.3, 4.3)T(0.025,0.35)
       
    sd_alpha_mps ~ dunif(0, 2)
    sd_delta_mps ~ dunif(0, 2)
-   sd_epsilon_mps ~ dunif(0, 2)
+   sd_epsilon_mps ~ dunif(0, 0.20)
    delta_mps[1] ~dnorm(0, sd_delta_mps^-2)
     
     for(j in 1:(AUS+1)){
@@ -1009,7 +1000,7 @@ MR ~dlnorm(-2.3, 4.3)T(0.025,0.35)
   
 
     mu_beta_mps ~ dunif(-3,0)  #5% to 50% surv
-    sd_beta_mps ~ dunif(0, 1)
+    sd_beta_mps ~ dunif(0, 0.20)
     for(st in 1:(stocks+1)){
       beta_mps[st] ~ dnorm(mu_beta_mps, sd_beta_mps^-2)
 
@@ -1036,12 +1027,14 @@ MR ~dlnorm(-2.3, 4.3)T(0.025,0.35)
   for(i in 1:(m)){
         
         for(s in 1:stocks){
-            survMps[i,1,s]<-exp(-MpsW[i,AU[s]]/Tstep) 		          #survmortW
-            survMps[i,2,s] <- exp(-qlW[i,1]*El[i,1]) * exp(-2*MpsW[i,AU[s]]/Tstep) 	       #survlW  
-            survMps[i,3,s] <- exp(-F_sea[i,1,1,AU[s]])* exp(-(6*MpsW[i,AU[s]]/Tstep))   	      #was survc
-            survMps[i,4,s] <- exp(-qdW[i,1]*Edo[i,1]) * exp(-MpsW[i,AU[s]]/Tstep)         #survdoW
+  
+            
+            survMps[i,1,s]<-exp(-MpsW[i,s]/Tstep) 		          #survmortW
+            survMps[i,2,s] <- exp(-qlW[i,1]*El[i,1]) * exp(-2*MpsW[i,s]/Tstep) 	       #survlW  
+            survMps[i,3,s] <- exp(-F_sea[i,1,1,AU[s]])* exp(-(6*MpsW[i,s]/Tstep))   	      #was survc
+            survMps[i,4,s] <- exp(-qdW[i,1]*Edo[i,1]) * exp(-MpsW[i,s]/Tstep)         #survdoW
             survMps[i,5,s] <- (1-HrW[i,1]*rivHR[(i+1-1),s])*exp(-MpsW[i,s]*sealMort[i,1,1]/Tstep)  #was surv.riv
-            survMps[i,6,s]<-(1-HtW[i,1]*(p.rel[(i+1-1)]*p.mort+(1-p.rel[(i+1-1)])))* exp(-MpsW[i,AU[s]]/Tstep) 
+            survMps[i,6,s]<-(1-HtW[i,1]*(p.rel[(i+1-1)]*p.mort+(1-p.rel[(i+1-1)])))* exp(-MpsW[i,s]/Tstep) 
         }
         
         for(s in 1:AUS){
@@ -1059,11 +1052,14 @@ MR ~dlnorm(-2.3, 4.3)T(0.025,0.35)
 #    RMps[i]~dbeta(Ra,Rb) 
     ReffectMps[i] <- (RMps[i] * 1.5)+1         
 
-    for(s in 1:AUS){
-      MpsR[i,s] <- MpsW[i,s] * ReffectMps[i]
+    for(j in 1:(AUS+1)){
+     logit_MpsR[i,j] <- alpha_mps[j]+delta_mps[i] 
+      MpsR[i,j] <- ( -log((exp(logit_MpsR[i,j])/(1+exp(logit_MpsR[i,j]))))) * ReffectMps[i]
  
     }             
     
+ 
+     
     #surv[,1,,1] are now replaced in code by survMps
      #surv[,1,,1] are now replaced in code by survMpsR
     surv[i,1,1,1]<- 0.99
@@ -1627,7 +1623,7 @@ tauL[4]~dlnorm(1.4,46)
     #logit_CV_spawn[s]~dnorm(mu_CV_sp[s],tau_CV_sp[s])T(pcvl[s],pcvh[s])  
     for(j in 1:2){  
           logit_mu_spawn[s,j]~dnorm(mu_mu_sp[s,j],tau_mu_sp[s,j])
-          logit_CV_spawn[s,j]~dnorm(mu_CV_sp[s,j],tau_CV_sp[s,j])T(,0)  
+          logit_CV_spawn[s,j]~dnorm(mu_CV_sp[s,j],tau_CV_sp[s,j])  
     
           logit(mu_spawn[s,j])<-logit_mu_spawn[s,j] 
           logit(CV_spawn[s,j])<-logit_CV_spawn[s,j] 
@@ -1636,7 +1632,7 @@ tauL[4]~dlnorm(1.4,46)
     }
     
     for(i in 1:prior_change[s]){
-      logit_pdetect[i,s]~dnorm(logit_mu_spawn[s,1],tau_spawn[s,1])T(-4,4)
+      logit_pdetect[i,s]~dnorm(logit_mu_spawn[s,1],tau_spawn[s,1])
       logit(p.detect[i,s])<-logit_pdetect[i,s]
       
       p.ladder[i,s]~dbeta(alpha_ladder[i,s],beta_ladder[i,s])
@@ -1645,7 +1641,7 @@ tauL[4]~dlnorm(1.4,46)
     }
     
         for(i in (prior_change[s]+1):(m+5)){
-      logit_pdetect[i,s]~dnorm(logit_mu_spawn[s,2],tau_spawn[s,2])T(-4,4)
+      logit_pdetect[i,s]~dnorm(logit_mu_spawn[s,2],tau_spawn[s,2])
       logit(p.detect[i,s])<-logit_pdetect[i,s]
       
       p.ladder[i,s]~dbeta(alpha_ladder[i,s],beta_ladder[i,s])
@@ -1663,18 +1659,13 @@ sigma_ladder<-sqrt(log(CV_ladder^2 + 1))
 tau_ladder<-1/(sigma_ladder*sigma_ladder)
 
 tauDS<-1/(log(cvDS*cvDS+1))
-#cvDS~dlnorm(-2.37,8)
-
-#   this is used elsewhere
+# cvDS~dlnorm(-2.37,8)
+#   this functuons as the low cv for sum dlnorm
 cvDS = 0.005
-
-
 p_simoUniq = 1/coefDS
 
 coefDS<-coefDS_tmp+1   # To ensure Simo count is always overestimation  
 coefDS_tmp~dlnorm(-2.029014,1.1211)
-
-
 
 #coefDS<-1.05 # assume that Simojoki Didson count is underestimate 
  
