@@ -943,9 +943,9 @@ MR ~dlnorm(-2.3, 4.3)T(0.025,0.35)
       
    sd_alpha_mps ~ dunif(0, 2)
    sd_delta_mps ~ dunif(0, 2)
-   #sd_epsilon_mps ~ dunif(0, 0.20)
-   sd_epsilon_mps <- 0.2/(1+exp(-sd_epsilon_mpsR))
-   sd_epsilon_mpsR ~ dnorm(0, 1.75^-2)
+   sd_epsilon_mps ~ dunif(0, 0.20)
+   # sd_epsilon_mps <- 0.2/(1+exp(-sd_epsilon_mpsR))
+   # sd_epsilon_mpsR ~ dnorm(0, 1.75^-2)
    delta_mps[1] ~dnorm(0, sd_delta_mps^-2)
     
     for(j in 1:(AUS+1)){
@@ -1003,9 +1003,9 @@ MR ~dlnorm(-2.3, 4.3)T(0.025,0.35)
 
     mu_beta_mps ~ dunif(-3,0)  #5% to 50% surv
     
-    #sd_beta_mps ~ dunif(0, 0.20)
-    sd_beta_mps <- 0.2/(1+exp(-sd_beta_mpsR))
-    sd_beta_mpsR ~ dnorm(0, 1.75^-2)
+    sd_beta_mps ~ dunif(0, 0.20)
+    # sd_beta_mps <- 0.2/(1+exp(-sd_beta_mpsR))
+    # sd_beta_mpsR ~ dnorm(0, 1.75^-2)
 
     for(st in 1:(stocks+1)){
       beta_mps[st] ~ dnorm(mu_beta_mps, sd_beta_mps^-2)
